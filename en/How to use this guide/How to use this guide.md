@@ -48,3 +48,21 @@ While you should not rely on this guide to win a case or as the only guide for e
 We’ve put as much information as we can in the guide. If at any point you feel overwhelmed, close this guide. Take a break. Come back to it and start again when you feel you can. You will be fine.
 
 **You can do this!**
+
+## WORKING THROUGH THE GUIDE
+In each section of this guide, you’ll first find:
+
+1. A summary that tells you the basics of what you need to know. If you are in a hurry you can just read this section.
+2. Detailed section with more tips and explanation
+3. A template or example
+
+At the end of this guide, you’ll find the resource Appendix with useful templates and links of organisations that can help you.
+
+In the sections below, we have outlined the basic guidelines for **collecting** and **presenting** evidence. Regardless of the specific nature of domestic violence or the laws in your country, collecting this type of evidence and presenting it effectively will ultimately support your case. If you wish, and if you are unable to collect evidence, you can still leave the relationship and bring a case against your abuser. We have put together general tips for planning an escape which you can see attached in the appendix. For a detailed guide, please download/view our [**How To Plan A Safe Escape guide**](http://chayn.co/planning-a-safe-escape).
+
+### Collecting evidence
+Collecting evidence is crucial, and it is best to start as early as possible - while you are still in the abusive relationship. The following sections will provide you with practical examples of the kinds of evidence that can be useful and of how to collect it. You may also find that even when you were not actively collecting evidence, you still have important things that can help your case.
+
+There are different types of evidence you can provide: from various statements, legal documents, letters and reports, to visual and audio evidence of abuse. All these kinds of evidence are useful, so it is important that you collect them and document the abuse and related events (e.g. police intervention, court orders, getting admitted to a refuge) in as much detail as possible. 
+
+The more exact you are in your details, the more persuasive your account becomes (e.g. what curse or abusive words did he use? When did they start locking you up or restricting you in other ways? When did you start feeling threatened in any way?). If you have not left the abusive house yet, consider keeping a diary where you record little incidents. These can then be presented as evidence for any purpose. If you are concerned the perpetrator will find and read your journal, consider creating a confidential online journal like [Penzu](http://penzu.com).
