@@ -14,7 +14,7 @@ The general advice we provide in this guide is designed to help you build your c
 In some countries, you may be eligible for free legal advice provided under a Legal Aid scheme. However, there are number of resources at the back of this guide that can assist you in seeking legal help. If there is no information about your country, then you can turn to a local NGO (Non-Governmental Organisation/charity) - even if they do not have experience or expertise in domestic violence cases, they can still point you in the right direction.
 
 ### What can you use the guide for?
-This guide aims to help you exercise your right to:
+#####This guide aims to help you exercise your right to:
 + take legal action against the perpetrator
 + escape an abusive relationship
 + get a divorce
@@ -50,8 +50,7 @@ We’ve put as much information as we can in the guide. If at any point you feel
 **You can do this!**
 
 ## WORKING THROUGH THE GUIDE
-In each section of this guide, you’ll first find:
-
+##### In each section of this guide, you’ll first find:
 1. A summary that tells you the basics of what you need to know. If you are in a hurry you can just read this section.
 2. Detailed section with more tips and explanation
 3. A template or example

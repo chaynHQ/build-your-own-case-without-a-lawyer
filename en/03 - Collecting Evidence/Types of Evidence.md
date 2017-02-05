@@ -4,7 +4,7 @@ Evidence can take a number of forms. As there is no such thing as standard evide
 
 The following section will take a legal approach to evidence. Don’t let this stop you from making use of it. Not all kinds of evidence will be relevant for your case, but it is useful to know how a court categorises it. If you feel overwhelmed at any point by this section, skip it and jump to evidence types.
 
-For most court settings, there are 5 different types of evidence:
+##### For most court settings, there are 5 different types of evidence:
 1. Documentary
 2. Physical / Real
 3. Hearsay
@@ -14,7 +14,7 @@ For most court settings, there are 5 different types of evidence:
 ### Documentary Evidence
 Documentary Evidence consists of documents and reports which have been produced for inspection by the court. These may be items of real evidence, original evidence or hearsay. </caption>
 
-#### These are the kinds of reports you can include:
+##### These are the kinds of reports you can include:
 + Any formal report or letter from your hospital, nurse, doctor, therapist or masseuse to attest to your mental or physical state. They can also be witnesses to an incident e.g. your partner shouting at you in the hospital or accompanying you to a checkup.
 + Any bill, conviction, incidence report, or warning by police to your abuser
 + Any criminal case against your abuser or one that your abuser has lodged against you
@@ -38,7 +38,7 @@ Hearsay evidence is less powerful than witness testimony given in the court, but
 ### Testimony Evidence
 Testimony evidence is evidence given by a witness, under oath, in the proceedings of a trial. Witnesses often also make statements before they get to court; this is a different form of evidence from testimony. Testimony evidence is only made in open court, in most countries.  However, when applying for asylum testimony evidence can be submitted in writing and asylum case workers almost never contact abusers to ‘hear their side of the story’ so you should not worry about that.
 
-Examples of testimony evidence include:
+##### Examples of testimony evidence include:
 + **Direct witnesses:** These are people who have directly witnessed the abuse. 
 + **Expert witnesses:** These often include doctors, social workers, nurses, or psychologists - in other words, these are people who are considered to be knowledgeable in a field that the court may not have enough knowledge of.
 + **Character witnesses:** These witnesses testify to your character in court proceedings. This is very important, because your abuser may try to challenge your credibility. For example, they can claim that you have been hurting yourself or making-up stories of abuse. They can question your truthfulness, or even mental health. That is why character witnesses are crucial for your case. They should be people who know your situation, but also people from different areas of your life - for example, a member of the family, a friend, an employer, or a school teacher at your child’s school who can attest to you being a responsible parent. Even the simplest statements about your child’s behavior at school, or your employer’s evaluation of your work can be helpful - anything they say can be used to support your case in one way or another!
@@ -57,4 +57,13 @@ If you’ve been in an abusive relationship for a while, it can be difficult to 
 
 If you’ve left the abusive situation, you can still collect evidence by saving what’s already been sent or done to you (calls, messages, emails, photos) or by outsmarting them and recording interactions in which they admit to the past abuse they committed, or when they threatened you.
 
-You must be very careful when collecting all types of evidence and be sure to collect it when no one is watching, especially those you don’t trust. Your safety is of the utmost importance. Make sure that whatever evidence you are collecting, you must keep it safe and away from your abuser so it cannot be destroyed and discovered. Take a small step before taking a bigger one! 
+You must be very careful when collecting all types of evidence and be sure to collect it when no one is watching, especially those you don’t trust. Your safety is of the utmost importance. Make sure that whatever evidence you are collecting, you must keep it safe and away from your abuser so it cannot be destroyed and discovered. Take a small step before taking a bigger one!
+
+### Here are some general safety rules:
++ Record without arousing suspicion, your personal safety is always the most important thing;
++ When recording or collecting evidence, always think of a backup excuse in case  someone you do not trust questions you about it;
++ Save the files online, under an unobvious name; you can save them on email accounts, Dropbox.com & Google Drive. You can also password protect your documents offline - although be very careful and name things inconspicuously so as to not arouse suspicion.
++ Save the files offline, preferably in several copies in several places; your computer is likely to store ‘recent files’ history. Make sure to remove them from the list, or to deactivate this option entirely. It’s very easy to do! Here you can read on how to do it on Mac and Windows.
++ Share the evidence with trusted individuals. If you have more than one person you trust, send it to all of them! However, make sure that the person will not betray you - if you are not sure, you can test their trust, by confiding in them with less important secrets. If they don’t let you down, you know there is a chance they may be trustworthy.
+
+For detailed safety rules, check each section of the guide.
