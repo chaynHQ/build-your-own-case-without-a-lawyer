@@ -66,3 +66,16 @@ Collecting evidence is crucial, and it is best to start as early as possible - w
 There are different types of evidence you can provide: from various statements, legal documents, letters and reports, to visual and audio evidence of abuse. All these kinds of evidence are useful, so it is important that you collect them and document the abuse and related events (e.g. police intervention, court orders, getting admitted to a refuge) in as much detail as possible. 
 
 The more exact you are in your details, the more persuasive your account becomes (e.g. what curse or abusive words did he use? When did they start locking you up or restricting you in other ways? When did you start feeling threatened in any way?). If you have not left the abusive house yet, consider keeping a diary where you record little incidents. These can then be presented as evidence for any purpose. If you are concerned the perpetrator will find and read your journal, consider creating a confidential online journal like [Penzu](http://penzu.com).
+
+Being as detailed as possible will also help support your case if the perpetrator, or anyone else, attempts to cast doubt on your evidence by denying occurrences. So for example, if they deny sending you an abusive message, claiming you are mistaken, you will have the proof to hand. Abusers may try to question evidence by casting doubt on the accuser’s state of mind, trying to make the accuser seem confused, or mentally unstable. This is known as ‘gas lighting’. Stay strong and stick to the evidence you collect— it will serve as proof that you are telling the truth and that all your accusations are justified.
+
+You may even find that things you don’t think count as evidence are useful, and things that you do not think are relevant may be very important to your case. It is always better to have something and not need it than the other way around. 
+
+If you still feel like you don’t have any evidence to collect or present - then discussing your situation with a trusted friend might be a good idea. They may be able to spot evidence sources that you may have overlooked. It may seem daunting at first, but it will get easier. Just think about all the times your abuser has wronged you. How many times has that happened in front of other people? Have they threatened you in a text or online message? There may be pieces of evidence scattered everywhere. You just need to find them! Use this guide to plan how to collect the evidence. You can do this!
+
+### Presenting evidence
+The way you present evidence can make a huge difference for your case. The evidence is there to tell a story— your story. Keeping it organized will help you make your voice loud and clear. 
+
+If you are presenting the evidence in a legal setting it is useful, because courts are usually oversubscribed and underfunded. But even if you aren’t, you should still keep it organized!
+
+Make sure you present the evidence clearly, including all relevant information. It is important that your evidence is well-organized, to make it easier for people reading it to comprehend and make sense of it. In the following sections, we will provide you with step-by-step advice on how to build a strong evidence folder.
