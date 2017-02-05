@@ -39,3 +39,12 @@ You take real action towards making a future for yourself in the present by seek
 Domestic violence is a type of mistreatment and includes physical, sexual, or psychological abuse. There are different types of domestic violence: it can occur in a lot of different ways, and it can happen to anyone, in any kind of relationship. 
 
 If another person’s actions put physical, psychological, or emotional strain on you, or if you feel hurt in any way and at any time, you might be experiencing abuse. Abuse is a recurring phenomenon and can be inflicted by anyone including your partner, parents, siblings, children, relatives, and in-laws. You can find more information about what constitutes domestic violence and abuse below, as well as on the [here](http://chayn.co/), [Chayn India](http://chaynindia.com/) and  [Chayn Pakistan](http://chaynpakistan.org/) websites.
+
+While there is no internationally agreed definition of domestic violence, and different countries have different definitions, for women, United Nations defines “violence” as “any act of gender-based violence that results in, or is likely to result in, physical, sexual or psychological harm or suffering”.  Some countries extend this definition, and recognise that emotional harm and financial control can be part of this abuse, as well as ‘honour’ based violence, Female Genital Mutilation, and forced marriage. In some cultural contexts, forced/child marriage or marital rape can be very controversial issues. Regardless of where you live, you should collect evidence of any such events - they can prove useful in building your case later on.
+If you are facing any of the above forms of abuse from your intimate partner, family or in-laws: whether physical, sexual, psychological, emotional, or financial, this guide has been created for you. It is designed to help you collect and present evidence of the abuse. Collecting evidence is extremely important - you can use it when filing for divorce, pressing criminal charges against the perpetrator, or applying for asylum.
+
+While you should not rely on this guide to win a case or as the only guide for every legal scenario, it can be a helpful resource for you. If you seek legal help, this should speed up the process of preparing your case. 
+
+We’ve put as much information as we can in the guide. If at any point you feel overwhelmed, close this guide. Take a break. Come back to it and start again when you feel you can. You will be fine.
+
+**You can do this!**
