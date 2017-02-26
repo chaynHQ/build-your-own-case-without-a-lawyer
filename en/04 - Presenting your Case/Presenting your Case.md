@@ -86,3 +86,79 @@ This is your space to present your story. You should use your own words and desc
 + Clearly show how and when the abuse happened - whether it was physical or verbal, explaining the events and how you felt about them shows the nature of your relationship
 + Are specific about the dates and types of abuse
 
+#### TEMPLATE/EXAMPLE
+See the Appendix.
+
+## TIMELINE OF EVENTS
+The timeline of events must be chronological. You have already explained in the cover letter why you are building this case. The timeline of events is your chance to demonstrate the sequence of events that have happened to you and how it has affected you.
+
+### WHAT TO INCLUDE <summary>
++ First instance of abuse. When did it start?
++ All major incidents
++ Explain what a typical day in your life is like during a period of abuse (See example)
+
+For every timeline event, you must mention the following, even if it is approximate (make sure to indicate that):
++ What happened
++ Date
++ Day
++ Time
++ Location
++ Who else witnessed it?
++ Any evidence related to the timeline event
+
+#### DETAILED
+There are two ways to go about this. You can either include a timeline of events in your personal statement or you can do one separately. We suggest making a  separate timeline.
+
+Timelines are an important part of your evidence as they will help people reading understand your situation and how the abuse has developed. Sometimes it can be hard to communicate and remember all the details if someone is asking you questions about days in the past. Depression, anxiety, and Post-Traumatic Stress Disorder can have a profound effect on our memories. In order to cope, the mind can push the thoughts that make us most anxious to a place which is not easily accessed. So don’t be hard on yourself if you cannot remember every single thing. This is why you need a written timeline. Every time you can’t remember or someone asks you about a specific incident and where it happened, you just need to show them the timeline.
+
+#### TEMPLATE/EXAMPLE
+See the Appendix.
+
+## SUPPORTING STATEMENTS
+### WHAT TO INCLUDE <summary>
++ **Cover Letter** for Supporting statements: Include a table or list of the names, date of births, ID number (if applicable), relation to you, and address.
++ **Who can you ask to write you a statement?**
+    + Friends
+    + Family
+    + Neighbours
+    + Social Workers
+    + Doctor or Nurse
+    + Health visitor 
+    + Children’s teacher
+    + Your teacher
+    + Anybody you have confided in or who has seen the abuse first-hand or seen its affect on you.
+    + Any NGO or charity supporting you
++ **Each statement should include**
+    + The person’s full name, their date of birth, who they are, who they are married to
+    + Their home address if they know you in a personal capacity (e.g. a friend or neighbour) - it should specify which country they live in
+    + Their professional address if they know you in a professional capacity (e.g. if it is your doctor then the address of their office/clinic)
+    + Relationship to you and how long they have known you for
+    + As a general rule, the statement should contain as many details about the person and their relationship to you as possible; if the person is a family member, they should also provide the names of their parents, siblings, children (if there are any) and other relatives, their marital status etc.
+    + Copy of ID document/scanned is fine
+    + Contact Details; a phone number and email address if they have one
+    + A first-hand statement from them: they should mention every time they witnessed or heard of the abuse and your situation from you, your relatives, friends, or anyone else
+    + It is extremely important to clearly state the first time the person found out about the abuse against you and how they found out about it
+    + Ensure that they sign the statement. This can be done either by printing the document, signing, and then scanning it, or by adding a digital signature.
+    
+#### DETAILED
+The supporting statements can serve different purposes, depending on what you are applying for. Even though it is important to let the person writing the statement express their own opinion freely, make sure to always let them know what you want to use the statement for, and make it clear why it is important. For example, if you are trying to get custody of your children, you can ask them to speak of your character, responsibility, and your relationship with your children. If you are applying for asylum, you can ask them to speak of your relationship, and confirm its abusive nature and, if they can, confirm the threat to your life upon returning to your country. Of course, the content of the statement will also depend on who is writing it. Your employer is more likely to vouch for your reliability and good character, whereas a member of the family, a neighbour, or a friend, can talk about your character, as well as your relationship with the abuser.
+
+Ask the person writing the statement to briefly introduce themselves at the beginning of it. They should state their relationship to you, as well as the reason why they decided to write the statement supporting your claim/request. The important point here is to make sure the reader knows:
++ Identity details of the person (see above)
++ How this person is related to you
++ When was the first time they heard about the abuse you face and who told them?
++ Details of incidents they witnessed themselves
++ Details of every single time they heard about the abuse from someone else (who was this?).
++ Any evidence of the conversations above happening e.g.
+    + Screenshot of Skype call history
+    + Screenshot of facebook messages/ twitter DM
+    + Screenshot of phone call log or SMS/Whatsapp
+    + Phone bill
+    + Letters
+
+Just as with your personal statement, ask the person writing the statement to be concise, specific, and focus on the main points and facts. For example, if your employer is saying that you are a trustworthy person, they should: (1) state it clearly and concisely; (2) support it with an example. For example, they could say: “X is a trustworthy and reliable person. While working for my company, she/he often handled tasks that required a high degree of independence and always completed them on time”. If your neighbour or friend is writing a statement giving evidence about the abusive nature of your relationship, ask them to be as specific as possible - if they remember the exact dates of the events they mention (for example, hearing a fight, calling the police, or seeing you with bruises), they should include it. 
+
+Once you’ve collected all the statements, make sure you include a cover letter which is either a table or list which gives an overview to the reader about what statements you are including.
+
+#### TEMPLATE
+See appendix.
