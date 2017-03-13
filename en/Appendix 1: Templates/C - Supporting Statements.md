@@ -61,3 +61,36 @@ or
 >“[NAME] has been working for me between [PERIOD YOU WORKED WITH THEM]. She has been a good and reliable employee. Although we did not have a close personal relationship, I could observe the impact the relationship with [NAME OF ABUSER] had on her/him.”
 
 ######2. What do you know about the abusive relationship and what is your opinion of it?
+>“I was appalled that [NAME] got married so young to an older man. His family was very hostile to her and it was clear to me that her parents were forcing her into marriage.”
+
+or
+
+> “I could observe the change in [NAME] since she entered the relationship with [NAME OF ABUSER]. Although she was infatuated at first, it was clearly visible that he was limiting her freedom and had a tendency to act violently”
+
+or 
+
+>“Although I was not aware of the exact details of [NAME’s] relationship, on the several occasions I have met [NAME OF ABUSER], it was evident that she was threatened by him. I was also aware that her freedom, even to work after hours, is very constrained by [NAME OF ABUSER].”
+
+######3. What was the first time you heard about the abuse and how. Don't forget to add important details such as the date or approximate date and time, where it happened, who was around and other similar details to give context.
+> “I saw [NAME] the day after her wedding [DATE]. She came to my house at [FULL ADDRESS] for lunch at about [APPROXIMATE TIME]. and she told me that her husband had raped her. Being very young, she didn’t want to get pregnant, but her husband threatened her against using contraception”
+
+or
+
+>“A few months after she got married, I met with [NAME] and I could see bruises on her arms. When I asked her about it she initially said it was nothing serious, but finally admitted that her husband was beating her and refusing to let her go out and see her friends”
+
+or
+
+>“After [NAME] got married to [NAME OF ABUSER] she became distracted at work. I also could see bruises and signs of injuries on her. She started skipping days of work, and eventually stopped appearing. Since she was a good employee, I contacted her friend [NAME OF THE FRIEND], who told me that she is being abused by [NAME OF ABUSER]”
+
+#####THIRD PARAGRAPH: timeline of the events related to the abuse: it is important to describe the relationship as well as the impact it had on your friend and the steps that led them to take action against perpetrator *Wherever possible, include exact dates of events.
+>“Over the months, I began talking to [NAME] more and found out more about the abusive nature of her relationship. [NAME OF ABUSER] forbade her to leave the house and meet her friends, forced her to quit her job and beat her whenever she refused to follow his orders. I could see her transform from a strong, happy person to a constantly scared, extremely unconfident and fragile wreck of herself. When she became pregnant, she was terrified. That’s when I decided to help her escape the relationship and [TYPE OF LEGAL ACTION YOU’RE TALKING ABOUT: APPLY FOR ASYLUM/FILE FOR A DIVORCE/INITIATE CRIMINAL PROCEEDINGS].”
+
+#####THEN INCLUDE A DETAILED DESCRIPTIONS OF ALL STAGES OF THE ABUSE STEPS THEY HAVE TAKEN THAT YOU ARE AWARE OF AND ABUSERS OR YOUR FAMILY’S RESPONSE TO IT
++ How did your involvement in the situation develop? Did you witness some of the abuse? Did you help with any actions?
++ What were the exact events (and dates) you witnessed? Seeing bruises? Overhearing an argument? Witnessing the abuse?
++ Did you observe (1) the impact the abuse had (change in behaviour/character); (2) the family’s/the abuser’s family’s response to the abuse?
++ Also include all other experiences you had with the abuser: had he harassed you/tried to threaten you when he realized you were helping your friend?
+
+#####FINAL PARAGRAPH: why are you supporting them and why do they think this action (getting the divorce/asylum/criminal conviction/child custody) is important for them?
+Reiterate above points, stressing on their impact on your friend.
+>“[NAME OF THE ABUSER] is an abuser. He repeatedly raped, hit and emotionally abused [NAME]. He also harassed me and tried to threaten me when he found out I was talking to [NAME] about the abuse. [NAME] was deprived of her own freedom, forced to follow his will and blamed for everything. [ABUSER’S NAME] family also blamed her for the situation, saying she was being a bad wife and bringing such treatment upon herself. They treated her like their property, an object. Over time, the abuse has become worse, and [NAME] fears for her life if she stays in [THE MARRIAGE/THE COUNTRY/BOTH]. Having seen her change through this relationship, and witnessing evidence of what was being done to her, I fear for her life too, which is why I [RESTATE WHAT IS BEING CLAIMED/ASKED FOR].”
