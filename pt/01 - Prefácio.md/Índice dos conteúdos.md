@@ -1,13 +1,13 @@
 #ÍNDICE DOS CONTEÚDOS
 <ol>
-   <li>**Como usar este guia**</li>
+   <li>Como usar este guia</li>
    <li>Juntando provas</li>
-      <ol>
+      <ol class="sublist">
          <li>Tipos de prova</li>
          <li>Documentando abusos</li>
       </ol>    
    <li>Preparando seu caso</li>
-      <ol>
+      <ol class="sublist">
          <li>Pasta</li>
          <li>Carta de Apresentação</li>
          <li>Declaração Pessoal</li>
@@ -19,7 +19,7 @@
          <li>Relatórios de Organizações</li>
       </ol>
    <li>Apêndice</li>
-      <ol>
+      <ol class="sublist">
          <li>Carta de Apresentação</li>
          <li>Linha do tempo</li>
          <li>Depoimentos de Apoio</li>
