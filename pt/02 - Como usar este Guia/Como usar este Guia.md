@@ -40,10 +40,12 @@ Embora esse guia seja destinado principalmente a vítimas de violência domésti
     <li>Uma seção detalhada com mais dicas e explicações</li>
     <li>Um modelo ou exemplo</li>
 </ol>
+<p>No final desse guia, você encontrará um Apêndice com modelos úteis e links para a página de organizações que podem te ajudar.</p>
+<h3>Coletando evidências</h3>
+<p>A coleta de evidências é crucial e é melhor começar o mais cedo possível - enquanto você estiver no relacionamento abusivo. As seções a seguir lhe fornecerão exemplos práticos dos tipos de provas que podem ser úteis e como coletá-las. Você também pode perceber que, mesmo quando não estiver ativamente coletando evidências, ainda terá coisas importantes que te ajudarão em seu caso.</p>
+<p>Existem diferentes tipos de evidências que você pode coletar: a partir de várias declarações, documentos legais, cartas, relatórios e evidências visuais e áudios do abuso. Todos estes tipos de evidência são úteis, por isso é importante que você colete e documente os abusos e eventos relacionados (por exemplo, intervenções da polícia, ordens judiciais, admissões de refúgio) com a maior quantidade de detalhes possíveis.</p>
+<p>O quanto mais exata você for em seus detalhes, mais persuasivo seu argumento se tornará (por exemplo, que palavrões ou palavras abusivas ele usou? Quando ele começou a te prender ou te restringir de qualquer forma? Quando você começou a se sentir ameaçada de alguma forma?). Se você ainda não deixou a casa na qual você vivenciou a experiência abusiva, considere manter um diário no qual você possa anotar pequenos incidentes. Estes podem ser apresentados como evidência para qualquer finalidade. Se você achar que seu agressor vai encontrar e ler o seu diário, considere criar um diário on-line confidencial, como <a href="https://penzu.com/" alt="website">Penzu.</p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-
-
-
