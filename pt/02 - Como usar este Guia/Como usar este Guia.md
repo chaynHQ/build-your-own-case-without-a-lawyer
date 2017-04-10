@@ -52,5 +52,3 @@ Embora esse guia seja destinado principalmente a vítimas de violência domésti
 <p>O modo utilizado para apresentar suas evidências pode fazer uma grande diferença para seu caso. As evidências existem para contar uma história - a sua história. Mantê-las organizadas pode te ajudar a manter sua voz alta e clara.</p>
 <p>Se você for apresentar essas evidências em uma situação legal, isso fará muita diferença, porque tribunais geralmente são sobrecarregados e sub financiados. E mesmo que esta não seja a realidade do seu país, você ainda deveria manter suas evidências organizadas.</p>
 <p>Certifique-se de apresentar as evidências claramente, incluindo todas as informações relevantes. É importante que elas sejam bem organizadas, para facilitar a leitura e compreensão dos documentos. Nas seções seguintes te oferecemos o passo a passo de como criar uma pasta de evidências fortes.</p>
-<p></p>
-<p></p>
