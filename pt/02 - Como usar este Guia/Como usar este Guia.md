@@ -33,3 +33,17 @@ Embora esse guia seja destinado principalmente a vítimas de violência domésti
 <p>Apesar de você não precisar depender deste documento para vencer seu processo ou utilizá-lo como único guia para todo o processo legal, ainda assim ele pode ser um recurso útil. Se você está buscando auxílio legal, esse guia deve acelerar o processo de preparação do seu caso.</p>
 <p>Nós colocamos a maior quantidade de informações que pudemos neste guia. Se você se sentir sobrecarregada em algum momento, feche esse guia. Faça uma pausa. Volte para o guia e comece novamente quando você se sentir pronta. Você vai ficar bem.</p>
 <p><strong>Você consegue!</strong></p>
+<h2>COMO VOCÊ PODE USAR ESTE GUIA</h2>
+<p>No início de cada capítulo deste guia você encontrará:</p>
+<ol>
+    <li>Um resumo que te conta o básico do que você precisa saber. Se você estiver com pressa, você pode ler apenas essa parte. </li>
+    <li>Uma seção detalhada com mais dicas e explicações</li>
+    <li>Um modelo ou exemplo</li>
+</ol>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+
+
