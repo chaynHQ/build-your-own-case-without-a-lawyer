@@ -1,0 +1,5 @@
+<h1>COMO USAR ESTE GUIA</h1>
+<h2>Esta guia é para mim?</h2>
+Se você é vítima de algum tipo de violência doméstica ou abuso e tem recursos limitados, você pode usar esse guia como uma ferramenta de apoio para construir um caso contra seu agressor sem precisar gastar dinheiro com suporte jurídico.
+Você pode encontrar mais informações sobre o que define violência doméstica e abuso abaixo, e também nos websites <a href="http://chayn.co/" alt="chayn wesbite">Chayn</a>, <a href="http://chaynindia.com/" alt="website">Chayn India</a> e <a href="http://chaynpakistan.org/" alt="website">Chayn Pakistan</a>. 
+Embora esse guia seja destinado principalmente a vítimas de violência doméstica, você pode achar seções deste guia úteis se você já foi vítima de algum tipo de injustiça. Se você está preocupado com alguém próximo a você, você pode utilizar esse guia para ajudá-lo.
