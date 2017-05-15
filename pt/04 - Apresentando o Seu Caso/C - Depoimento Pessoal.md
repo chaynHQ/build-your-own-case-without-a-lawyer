@@ -44,9 +44,18 @@
 <blockquote>“O jeito com que ele falava comigo sempre me assustava muito, me deixava triste e deprimida. Ele também dizia coisas que me deixavam apavoradas sobre minha segurança.”</blockquote>
 <strong>Estas frases:</strong>
 <ul>
-<li>São muito vagas - elas não demonstram exemplos específicos ou datas dos eventos</li>
-<li>São focadas em emoções ao invés de fatos - isto pode distrair o leitor da sua narrativa</li>
-<li>São muito repetitivas e não trazem conteúdo novo suficiente</li>
+    <li>São muito vagas - elas não demonstram exemplos específicos ou datas dos eventos</li>
+    <li>São focadas em emoções ao invés de fatos - isto pode distrair o leitor da sua narrativa</li>
+    <li>São muito repetitivas e não trazem conteúdo novo suficiente</li>
+</ul>
+<strong>(3) Descrição balanceada do abuso, incluindo dosagens de fatos e emoções</strong>
+<blockquote>“Em 2015 a situação ficou muito pior. Ele me batia, chutava e me dava tapas com tanta frequência que eu sentia que não aguentava mais. Em uma ocasião, ele ficou particularmente violento e eu fiquei com medo de que ele fosse me matar. Eu tentei usar meu telefone para ligar para a polícia, mas ele tirou o telefone da minha mão e cuspiu na minha cara, me chamando de vadia.”</blockquote>
+<blockquote>“Ele repetidamente me chamava de vadia e prostituta, me proibindo de ver meus amigos e me acusando de traí-lo. Este tipo de linguagem fazia com que eu me sentisse muito ameaçada e vulnerável. Em uma ocasião, em julho de 2014, quando eu voltei de uma reunião com um amigo, ele ameaçou me matar se eu tentasse entrar em contato com alguém de fora da casa de novo.”</blockquote>
+<strong>Estas frases:</strong>
+<ul>
+    <li>Formam uma <em>narrativa</em> - elas demonstram os eventos em sequência, mas também deixam claro os efeitos pessoais e como você se sentiu em relação a eles</li>
+    <li>Claramente mostram como e quando o abuso aconteceu - seja ele físico ou verbal, a explicação dos eventos e como você se sentiu demonstram a natureza do seu relacionamento</li>
+    <li>ão específicos sobre datas e tipos de abuso</li>
 </ul>
 
 
