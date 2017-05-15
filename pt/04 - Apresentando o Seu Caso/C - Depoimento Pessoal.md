@@ -57,6 +57,7 @@
     <li>Claramente mostram como e quando o abuso aconteceu - seja ele físico ou verbal, a explicação dos eventos e como você se sentiu demonstram a natureza do seu relacionamento</li>
     <li>ão específicos sobre datas e tipos de abuso</li>
 </ul>
-
+<h3>MODELO</h3>
+<p>Veja no apêndice.</p>
 
 
