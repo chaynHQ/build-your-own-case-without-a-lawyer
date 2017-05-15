@@ -35,3 +35,6 @@
 </ol>
 <p>Assim como a gravação de áudio, você deve juntar este tipo de evidência mesmo se você não estiver segura sobre sua utilidade. Você nunca sabe quando precisará de fotos para ajudar convencer alguém a te ajudar!</p>
 <h3>EXEMPLO</h3>
+<h4>Foto de uma agressão</h4>
+![](/assets/image02.jpg)
+<blockquote>“Uma vez eu apanhei muito. Eu lembro que tive a oportunidade de fotografar a evidência na época, mas eu impedi a mim mesma de fazer isso, pensando na humilhação e no estigma que causaria se as pessoas vissem. Eu até neguei para mim mesma e para outros sobre ter a oportunidade de tirar as fotos. Eu me arrependo de ter feito isso agora, porque com o passar do tempo, eu percebi que não registrando aquela agressão a tempo eu fui prejudicada e meus agressores favorecidos. Agora, eu não me sinto tímida de coletar nenhum tipo de evidência, na verdade eu gosto da paz de espírito que me dá e intenciono usar isso para ganhar minha liberdade.”  <strong>Corajosa, 26</strong></blockquote>
