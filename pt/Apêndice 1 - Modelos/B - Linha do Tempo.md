@@ -23,5 +23,6 @@
 <date>03 de Novembro de 2013</date>
 <p>Casa da minha cunhada em Abuja, Nigéria (endereço)</p>
 <blockquote>“Meu marido me estrangula e minha cunhada retirada ele de cima de mim. Eles me levam ao hospital” (Detalhes: Depoimento pessoal, parágrafo 22)</blockquote>
-<p><strong>Pessoas envolvidas:</strong> Meu marido, minha cunhada, meus sogros</p>
-<p><strong>Evidências de apoio:</strong>  Depoimento da enfermeira [NOME], Cópia da conversa entre minha cunhada e minha mãe [Evidência 11]</p>
+<p><strong>Pessoas envolvidas:</strong> Meu marido, minha cunhada, meus sogros.</p>
+<p><strong>Evidências de apoio:</strong>  Depoimento da enfermeira [NOME], Cópia da conversa entre minha cunhada e minha mãe [Evidência 11].</p>
+<p><strong>E desta forma você pode continuar a linha do tempo. Seja enxuta ao narrar os incidentes!</strong></p>
