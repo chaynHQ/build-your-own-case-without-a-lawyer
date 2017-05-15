@@ -29,3 +29,12 @@
 <p>Sempre que for relevante, explique o contexto (como dito acima) e faça referências às evidências que você providenciou em outro lugar da pasta. Isto inclui os rumores e boatos. Você pode fazer referência ao que as pessoas disseram, sempre deixando claro quem falou o quê. Por exemplo, você pode incluir se ouviu sua sogra falar que o seu marido irá te achar e te matar ou que seus parentes comentaram que seu parceiro tem espalhado mentiras caluniosas sobre você. Tente anotar a data de tudo isso para dar mais clareza ao leitor.</p>
 
 <p>Este é o espaço para apresentar sua história. Você deve usar suas próprias palavras e descrever os eventos como você os presenciou, ao invés de usar uma linguagem científica ou imparcial. Porém, tente focar mais nos fatos do que nas emoções. Você pode mencionar como o abuso te fez sentir, mas tenha certeza que seu depoimento está focando no que realmente aconteceu. Abaixo seguem alguns exemplos de frases que são (1) muito impessoais; (2) muito emotivas; (3) mais balanceadas.</p>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+
+
+
+</ol>
