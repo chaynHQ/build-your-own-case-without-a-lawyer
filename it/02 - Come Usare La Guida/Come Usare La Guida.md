@@ -3,6 +3,26 @@
 <p>Se vivi ogni forma di violenza domestica o abuso ed hai risorse limitate, puoi utilizzare questa guida come uno strumento per aiutarti a costruire il tuo caso contro l’autore della violenza senza necessariamente spendere soldi in consulenze legali. Nella guida puoi trovare informazioni su cosa costituisce violenza domestica e abuso, così come nei siti web di <a href="http://chaynitalia.org/" alt="website">Chayn Italia</a>, <a href="http://chayn.co/" alt="website">Chayn HQ</a>, <a href="http://chaynindia.com/" alt="website">Chayn India</a> e <a href="http://chaynpakistan.org/" alt="website">Chayn Pakistan</a>. Sebbene questa guida sia rivolta principalmente alle donne che vivono una relazione violenta, troverai alcune sezioni comunque utili sei hai subito e stai subendo una qualsiasi ingiustizia.  Se sei preoccupata/o per qualcuno a te vicino, puoi usare questa guida per <a href="http://chaynitalia.org/aiutare-un-amica/" alt="on chayn italia website">aiutare</a>.</p>
 <p><strong>In una frase:</strong> questa guida ti spiega come costruire il tuo caso se hai subito/stai subendo una violenza. </p>
 <p>Sebbene sia uno strumento utile per raccogliere le prove e strutturare il caso e può aiutarti a rivendicare i tuoi diritti senza ricorrere necessariamente a una consulenza legale, la guida non può interamente sostituire la consulenza legale necessaria per il tuo caso. Di conseguenza, se puoi permetterti un avvocato o se non puoi ma hai i requisiti per accedere al <a href="http://chaynitalia.org/informazioni-legali/">gratuito patrocinio</a>, sfrutta l’occasione al meglio. Se hai richiesto consulenza legale, ma ti è stata negata, questa guida può aiutarti a convincere un avvocato ad accettare il tuo caso, raccogliendo ed esponendo le prove.</p>
-<p></p>
-<p></p>
+<p><strong>Se non sei sicura di voler intraprendere un’azione legale,</strong> puoi sempre usare questa guida per raccogliere le prove e conservarle nel caso tu ne abbia bisogno in futuro.</p>
+<p>Ad una prima lettura questa guida sembra rivolta esclusivamente a donne, ma in pratica può essere usata per aiutare chiunque abbia affrontato una esperienza di violenza domestica, in matrimoni e relazioni sia eterosessuali che omosessuali. Le informazioni contenute sono anche valide se sei stai vivendo un <strong>abuso da parte dei tuoi genitori</strong> o parenti stretti.</p>
+<p>Le linee guida esposte in questo testo sono pensate per aiutarti a costruire il tuo caso, a far sì che l’autore della violenza sia perseguito e che tu possa esercitare i tuoi diritti ovunque tu viva. Puoi trovare le informazioni legali specifiche per l’Italia <a href="http://chaynitalia.org/informazioni-legali/">qui.</a></p>
+<p>In alcuni paesi potresti avere accesso a una consulenza legale gratuita fornita in un sistema di Aiuti Legali. Puoi trovare più informazioni sul contesto italiano <a href="http://chaynitalia.org/informazioni-legali/introduzione-e-supporto-legale-a-spese-dello-stato/">qui</a>.</p>
+<p>Tuttavia, puoi sempre rivolgerti ad un Organizzazione non Governativa locale, anche se non si occupano di casi di violenza domestica, potrebbero fornire suggerimenti utili.</p>
+<p><strong>Per cosa puoi utilizzare la guida?</strong></p>
+<p>Questa guida vuole aiutarti ad esercitare i tuoi diritti per:</p>
+<ul>
+    <li>intraprendere azione legale contro l’autore della violenza</li>
+    <li>uscire da una relazione violenta</li>
+    <li>ottenere un divorzio</li>
+    <li>assicurarti custodia dei tuoi figli</li>
+    <li>fare richiesta di asilo</li>
+    <li>ogni altra situazione in cui hai bisogno di provare la violenza subita </li>
+    <li>per documentazione personale</li>
+</ul>
+<p>I sistemi legali e le procedure a questi legate possono essere complessi, lenti e poco flessibili. Noi crediamo che raccogliere adeguate prove e presentarle bene ti aiuterà a superare efficacemente questi ostacoli.</p>
+<p>Potrebbero esserci dei casi in cui perseguire azioni penali contro il responsabile dell’abuso potrebbe non essere fattibile o potrebbe metterti a rischio. In questi casi, usa questa guida per raccogliere della documentazione personale. Non puoi mai sapere quando ti sarà utile.</p>
+<p>Se la Polizia sta perseguendo un caso contro uno o più individui che hanno commesso o stanno commettendo abusi contro di te, dovresti fornirgli tutte le informazioni che questa guida ti ha aiutato a raccogliere. La Polizia raccoglierà le prove necessarie e potrebbe farti domande per assicurarsi di avere la tua versione della storia. Se la Polizia non è propensa ad indagare il tuo caso, rivolgiti ad organizzazioni che aiutano chi ha vissuto relazioni violente a portare avanti la propria causa. A seconda di dove ti trovi, ci potrebbe essere una lista di organizzazioni utili disponibile <a href="http://chaynitalia.org/mappatura-dei-servizi/">qui</a>.</p>
+<p>Se stai costruendo un caso da presentare agli uffici che si occupano di immigrazione, la sezione su come presentare le informazioni sarà per te quella più utile. Tuttavia, puoi anche usare questa sezione per presentare il tuo caso alla Polizia, al Pubblico Ministero, o qualsiasi organizzazione che ti stia aiutando, per aumentare le possibilità di ottenere un loro coinvolgimento nel tuo caso, anche se fossero inizialmente restii.</p>
+<h2>COS’È LA VIOLENZA DOMESTICA?</h2>
+<p>La Violenza Domestica è una forma di maltrattamento e include forme di abuso fisico, sessuale, psicologico o economico. Ci sono più tipi di violenza domestica, può verificarsi in molti modi e può capitare a chiunque, in ogni tipo di relazione.</p>
 <p></p>
