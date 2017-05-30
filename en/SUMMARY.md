@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](01 - Introduction/README.md)
+* [Introduction](README.md)
     * [Hello](01 - Introduction/Table of Contents.md)
 * [How to use this guide](02 - How to use this guide/How to use this guide.md)
 * [Collecting Evidence](03 - Collecting Evidence/Types of Evidence.md)
