@@ -16,3 +16,8 @@
     * [Cover Letter](Appendix 1: Templates/A - Cover Letter.md)
     * [Timeline](Appendix 1: Templates/B - Timeline.md)
     * [Supporting statements](Appendix 1: Templates/C - Supporting Statements.md)
+* [Appendix 2: How to stay safe online](Appendix 2: How to Stay Safe Online/README.md)
+    * [5 minute online privacy checkup](Appendix 2: How to Stay Safe Online/5 minute online privacy checkup.md)
+* [Why we built this guide](Why we Built this Guide.md)
+* [Copyright](Copyright.md)
+
