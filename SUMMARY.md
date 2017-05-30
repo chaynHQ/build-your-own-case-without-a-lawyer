@@ -1,6 +1,7 @@
-# Summary
+# Read the guide in your own language
 
-* [English](/en)
+* [English](en/)
+
 
 
 
