@@ -11,7 +11,6 @@
     * [Video](04 - Presenting your Case/D - Video.md)
     * [Reports from agencies](04 - Presenting your Case/E - Reports from Agencies.md)
     * [Diary of journal entries](04 - Presenting your Case/F - Diary or Journal Entries.md)
-    * [Diary of journal entries](04 - Presenting your Case/F - Diary or Journal Entries.md)
     * [What's next](04 - Presenting your Case/G - What's Next.md)
 * [Appendix 1: Templates](Appendix 1: Templates/README.md)
     * [Cover Letter](Appendix 1: Templates/A - Cover Letter.md)
