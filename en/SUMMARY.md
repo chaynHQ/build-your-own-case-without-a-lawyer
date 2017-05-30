@@ -19,5 +19,9 @@
 * [Appendix 2: How to stay safe online](Appendix 2: How to Stay Safe Online/README.md)
     * [5 minute online privacy checkup](Appendix 2: How to Stay Safe Online/5 minute online privacy checkup.md)
 * [Why we built this guide](Why we Built this Guide.md)
+* [Copyright](Copyright.md)
+
+
+
 
 
