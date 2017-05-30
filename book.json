@@ -1,3 +1,7 @@
 {
+    "plugins": [
+        "anker-enable",
+        "analytics"
+    ] 
 
 }
