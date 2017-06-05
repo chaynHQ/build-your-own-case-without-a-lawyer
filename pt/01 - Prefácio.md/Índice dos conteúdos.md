@@ -1,32 +1,32 @@
 #ÍNDICE DOS CONTEÚDOS
-<ol>
-   <li>Como usar este guia</li>
-   <li>Juntando provas</li>
-      <ol class="sublist">
-         <li>Tipos de prova</li>
-         <li>Documentando abusos</li>
-      </ol>    
-   <li>Preparando seu caso</li>
-      <ol class="sublist">
-         <li>Pasta</li>
-         <li>Carta de Apresentação</li>
-         <li>Declaração Pessoal</li>
-         <li>Linha do tempo dos abusos</li>
-         <li>Depoimentos de Apoio</li>
-         <li>Áudio</li>
-         <li>Fotos</li>
-         <li>Vídeo</li>
-         <li>Relatórios de Organizações</li>
-      </ol>
-   <li>Apêndice</li>
-      <ol class="sublist">
-         <li>Carta de Apresentação</li>
-         <li>Linha do tempo</li>
-         <li>Depoimentos de Apoio</li>
-         <li>Segurança online</li>
-      </ol>
-   <li>Agradecimentos e Como Contribuir</li>
-</ol>
+   <ol>
+      <li>Como usar este guia</li>
+      <li>Juntando provas</li>
+         <ol class="sublist">
+            <li>Tipos de prova</li>
+            <li>Documentando abusos</li>
+         </ol>    
+      <li>Preparando seu caso</li>
+         <ol class="sublist">
+            <li>Pasta</li>
+            <li>Carta de Apresentação</li>
+            <li>Declaração Pessoal</li>
+            <li>Linha do tempo dos abusos</li>
+            <li>Depoimentos de Apoio</li>
+            <li>Áudio</li>
+            <li>Fotos</li>
+            <li>Vídeo</li>
+            <li>Relatórios de Organizações</li>
+         </ol>
+      <li>Apêndice</li>
+         <ol class="sublist">
+            <li>Carta de Apresentação</li>
+            <li>Linha do tempo</li>
+            <li>Depoimentos de Apoio</li>
+            <li>Segurança online</li>
+         </ol>
+      <li>Agradecimentos e Como Contribuir</li>
+   </ol>
 <blockquote>“Gostaria de ter tido este guia quando comecei, eu tinha algumas provas mas a polícia recusou aceitar provas de áudio, acredito que ‘Como construir seu processo de violência doméstica sem um advogado’ vai ajudar todo o mundo que está nessa situação e também educar aqueles que um dia possam precisar. Excelente.” <span>OP, sobrevivente.</span></blockquote>
 <blockquote>“O guia é claro, conciso, fácil de entender e direto...recomendo a todo o mundo, mesmo a quem tem um advogado…”  <span>Johana R, sobrevivente.</span></blockquote>
 <blockquote>“Uau, sim, é verdadeiramente revelador”  <span>NU, sobrevivente.</span></blockquote>
