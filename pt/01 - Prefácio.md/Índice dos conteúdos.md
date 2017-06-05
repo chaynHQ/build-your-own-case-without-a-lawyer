@@ -1,12 +1,13 @@
 #ÍNDICE DOS CONTEÚDOS
    <ol>
       <li>Como usar este guia</li>
-      <li>Juntando provas</li>
+      <li>Juntando provas
          <ol class="sublist">
             <li>Tipos de prova</li>
             <li>Documentando abusos</li>
-         </ol>    
-      <li>Preparando seu caso</li>
+         </ol>
+      </li>
+      <li>Preparando seu caso
          <ol class="sublist">
             <li>Pasta</li>
             <li>Carta de Apresentação</li>
@@ -18,13 +19,15 @@
             <li>Vídeo</li>
             <li>Relatórios de Organizações</li>
          </ol>
-      <li>Apêndice</li>
+      </li>
+      <li>Apêndice
          <ol class="sublist">
             <li>Carta de Apresentação</li>
             <li>Linha do tempo</li>
             <li>Depoimentos de Apoio</li>
             <li>Segurança online</li>
          </ol>
+      </li>
       <li>Agradecimentos e Como Contribuir</li>
    </ol>
 <blockquote>“Gostaria de ter tido este guia quando comecei, eu tinha algumas provas mas a polícia recusou aceitar provas de áudio, acredito que ‘Como construir seu processo de violência doméstica sem um advogado’ vai ajudar todo o mundo que está nessa situação e também educar aqueles que um dia possam precisar. Excelente.” <span>OP, sobrevivente.</span></blockquote>
