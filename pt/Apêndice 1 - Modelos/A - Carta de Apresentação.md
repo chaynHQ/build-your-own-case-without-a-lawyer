@@ -1,5 +1,3 @@
-<h1>APÊNDICE 1 - MODELOS</h1>
-<em>Estes modelos foram disponibilizados com a melhor das intenções e possuem um formato aceitável que permitem o uso em vários cenários e países. Eles nem sempre serão aplicáveis em todos os casos e não devem ser usados como exemplos definitivos.</em>
 <h2>CARTA DE APRESENTAÇÃO</h2>
 <p>“Para quem possa interessar, [VOCÊ PODE SUBSTITUIR ESTA PARTE PELO NOME DA PESSOA A QUEM VOCÊ ESTIVER ESCREVENDO SE TIVER ESTA INFORMAÇÃO]</p>
 <p>Meu nome é [SEU NOME], eu tenho [SUA IDADE] anos e atualmente moro em [SEU ENDEREÇO]. Eu escrevo para você com o objetivo de enviar o meu caso [CONSEGUIR O DIVÓRCIO DO MEU MARIDO - NOME DELE; CONSEGUIR ASILO - NOME DO PAÍS; etc. O que você estiver pedindo!]</p>
