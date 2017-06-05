@@ -30,7 +30,7 @@
 
 <p>Este é o espaço para apresentar sua história. Você deve usar suas próprias palavras e descrever os eventos como você os presenciou, ao invés de usar uma linguagem científica ou imparcial. Porém, tente focar mais nos fatos do que nas emoções. Você pode mencionar como o abuso te fez sentir, mas tenha certeza que seu depoimento está focando no que realmente aconteceu. Abaixo seguem alguns exemplos de frases que são (1) muito impessoais; (2) muito emotivas; (3) mais balanceadas.</p>
 
-<strong>(1) Descrição do abuso muito impessoal</strong>
+<h4>(1) Descrição do abuso muito impessoal</h4>
 <blockquote>“Em 2015, a situação piorou. Ele usou de força física e outras formas de violência contra mim. Quando tentava buscar ajuda de autoridades, meu agressor usava da força para me impedir de fazê-lo.”</blockquote>
 <blockquote>“Ele repetidamente usava linguagem ofensiva quando estava se referindo a mim e nosso filho. Ele usava de ameaças para me impedir de contar a outra pessoa minha situação.”</blockquote>
 <strong>Estas frases:</strong>
@@ -39,7 +39,7 @@
 <li>Usa linguagem excessivamente formal</li>
 <li>Minimizam o abuso: dizer que “Ele usava linguagem ofensiva” não necessariamente demonstra o efeito que um abuso verbal tem e por que ele é abusiva - é importante ressaltar isso. <em>Insultar você É abuso e como isto fez você se sentir É importante!</em></li>
 </ul>
-<strong>(2) Descrição muito emocional do abuso</strong>
+<h4>(2) Descrição muito emocional do abuso</h4>
 <blockquote>“Depois de algum tempo ficou tão ruim, que eu achei que não aguentava mais. Eu chorava o tempo todo e me sentia totalmente impotente. Ele estava me batendo e me chutando e eu sentia que estava morrendo, tão assustada o tempo todo. Ele fez com que eu me sentisse humilhada e que não valia nada. Eu me sentia assustada e não podia nem pedir ajuda para a polícia.”</blockquote>
 <blockquote>“O jeito com que ele falava comigo sempre me assustava muito, me deixava triste e deprimida. Ele também dizia coisas que me deixavam apavoradas sobre minha segurança.”</blockquote>
 <strong>Estas frases:</strong>
@@ -48,7 +48,7 @@
     <li>São focadas em emoções ao invés de fatos - isto pode distrair o leitor da sua narrativa</li>
     <li>São muito repetitivas e não trazem conteúdo novo suficiente</li>
 </ul>
-<strong>(3) Descrição balanceada do abuso, incluindo dosagens de fatos e emoções</strong>
+<h4>(3) Descrição balanceada do abuso, incluindo dosagens de fatos e emoções</h4>
 <blockquote>“Em 2015 a situação ficou muito pior. Ele me batia, chutava e me dava tapas com tanta frequência que eu sentia que não aguentava mais. Em uma ocasião, ele ficou particularmente violento e eu fiquei com medo de que ele fosse me matar. Eu tentei usar meu telefone para ligar para a polícia, mas ele tirou o telefone da minha mão e cuspiu na minha cara, me chamando de vadia.”</blockquote>
 <blockquote>“Ele repetidamente me chamava de vadia e prostituta, me proibindo de ver meus amigos e me acusando de traí-lo. Este tipo de linguagem fazia com que eu me sentisse muito ameaçada e vulnerável. Em uma ocasião, em julho de 2014, quando eu voltei de uma reunião com um amigo, ele ameaçou me matar se eu tentasse entrar em contato com alguém de fora da casa de novo.”</blockquote>
 <strong>Estas frases:</strong>
