@@ -1,11 +1,11 @@
 <h2>CARTA DE APRESENTAÇÃO</h2>
 <h3>O QUE INCLUIR (sumário)</h3>
 <ul>
-<li>Quem você é</li>
-<li>Por que está enviando seu caso, qual o objetivo</li>
-<li>O que as evidências sugerem</li>
-<li>Por que você coletou as evidências</li>
-<li>Um anexo elencando todos os diferentes tipos de documentos incluídos na pasta</li>
+    <li>Quem você é</li>
+    <li>Por que está enviando seu caso, qual o objetivo</li>
+    <li>O que as evidências sugerem</li>
+    <li>Por que você coletou as evidências</li>
+    <li>Um anexo elencando todos os diferentes tipos de documentos incluídos na pasta</li>
 </ul>
 <h3>DETALHES</h3>
 <p>A carta de apresentação é uma forma de introduzir o seu caso e as evidências ao leitor. Por favor, seja o mais concisa e específica possível. Foque em destacar as informações mais importantes: quem você é, por quê você está escrevendo para eles, quais evidências você conseguiu e o que elas demonstram.</p>
