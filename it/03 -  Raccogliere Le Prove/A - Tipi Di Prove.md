@@ -34,8 +34,8 @@ Le dichiarazioni possono riguardare i fatti a cui si è assistito, o possono pro
 <ul>
     <li>Registra senza destare sospetti, la tua sicurezza personale è sempre la cosa più importante;</li>
     <li>Quando registri o raccogli prove, pensa sempre a una scusa nel caso qualcuno/a di cui non ti fidi faccia domande;</li>
-    <li></li>
-    <li></li>
+    <li>Salva i file online, con un nome che non sia ovvio; puoi salvarle su account email, Dropbox.com e Google Drive. Puoi anche proteggere con password i tuoi documenti offline sul computer, anche se devi essere estremamente prudente e dargli nomi che non destino sospetti;</li>
+    <li>Salva i file offline preferibilmente in più copie su più dispositivi; il tuo computer probabilmente ha una sezione “file recenti”, assicurati di rimuovere i tuoi file dalla lista o di disattivare questa opzione interamente. È estremamente facile farlo, puoi leggere istruzioni a proposito qui per <a alt="Sito esterno" href="http://spider-mac.com/2010/10/11/eliminare-solo-una-categoria-degli-elementi-rcenti/">Mac</a> e <a alt="Sito esterno" href="http://windows.microsoft.com/it-it/windows7/show-or-hide-recent-items-on-the-start-menu">Windows</a>;</li>
     <li></li>
     <li></li>
     <li></li>
