@@ -38,4 +38,14 @@
     <li>Si concentrano sulle emozioni piuttosto che sui fatti. Questo può distrarre chi legge e fargli perdere il filo che lega insieme la narrazione di quello che ti è successo.</li>
     <li>Sono ripetitive e non aggiungono elementi nuovi o rilevanti alla tua dichiarazione.</li>
 </ul>
-
+<h3>(3) Descrizione bilanciata di abuso, che include sia i fatti che il loro impatto psicologico</h3>
+<blockquote>«Nel 2015 la situazione ha cominciato a peggiorare. Mi picchiava, prendeva a calci e schiaffi tanto che sono arrivata al punto in cui ho capito di non poter più sopportare la situazione. Un giorno in particolare è diventato più violento del solito e ho avuto paura che mi uccidesse. Ho preso il telefono e ho fatto il numero della polizia, ma lui mi ha strappato il telefono di mano con uno schiaffo, mi ha colpito in faccia e mi ha urlato “puttana”».</blockquote>
+<blockquote>«Mi chiamava ripetutamente “puttana” e “troia” e mi impediva di vedere i miei amici accusandomi di tradirlo. Questo suo modo di rivolgersi nei miei confronti mi faceva sentire vulnerabile e in costantemente pericolo. Nel giugno 2014, ad esempio, ero appena tornata da una visita a un amico quando lui ha minacciato di uccidermi se avessi contattato ancora qualcuno fuori di casa in futuro.»</blockquote>
+<h4>Queste frasi:</h4>
+<ul>
+    <li>Creano una narrazione: presentano i fatti in sequenza, ma allo stesso tempo mostrano anche i loro effetti psicologici ed emotivi su di te, spiegando come ti hanno fatto sentire.</li>
+    <li>Raccontano con precisione come e quando gli abusi sono avvenuti: forniscono date e elementi precisi.</li>
+    <li>Spiegano se si è trattato di violenze fisiche o verbali e così gettano luce sulla natura della relazione tra te e il tuo partner.</li>
+</ul>
+<h4>MODULO/ESEMPIO</h4>
+<p>Vedi la sezione Appendice.</p>
