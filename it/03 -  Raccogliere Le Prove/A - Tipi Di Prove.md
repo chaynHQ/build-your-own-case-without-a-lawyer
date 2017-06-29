@@ -30,4 +30,14 @@ Le dichiarazioni possono riguardare i fatti a cui si è assistito, o possono pro
 <p>Se sei stata in una relazione abusiva per un po’ può essere difficile capire quali siano gli aspetti da documentare. La cosa migliore è raccogliere il maggior numero di prove possibili, anche se in seguito molte potranno rivelarsi superflue. Per aiutarti, immagina la tua vita vissuta da qualcuno che ami e nei cui confronti ti senti protettiva (tua sorella, un’amica, una cugina, una figlia o nipote). Ora immaginale nella tua situazione e annota tutte le istanze di abuso che affrontano in un giorno. Pensa a cosa sentono, vedono e subiscono. Ora ripeti questo esercizio per un’intera settimana. Una volta che hai tutto ciò per iscritto, sottolinea i punti che dimostrano la natura dell’abuso e della manipolazione. Cerca di evidenziare ogni aspetto che può essere documentato facilmente e in sicurezza. Questo è un buon punto di partenza.</p>
 <p>Se hai lasciato la situazione abusiva, puoi sempre raccogliere prove registrando quanto ti è già stato inviato o fatto (telefonate, messaggi, email, fotografie) o registrando interazioni in cui ammettono l’abuso passato o in cui vi minacciano.</p>
 <p>Devi essere estremamente prudente quando raccogli questo tipo di prove e assicurati di non essere osservata da nessuno, in particolare da coloro di cui non ti fidi. La tua sicurezza è la cosa più importante. Assicurati di nascondere le prove raccolte, lontano dall’autore dell’abuso. Fai un piccolo passo prima di farne uno molto più grande!</p>
-<p></p>
+<p><strong>Queste sono alcune regole generali di sicurezza:</strong></p>
+<ul>
+    <li>Registra senza destare sospetti, la tua sicurezza personale è sempre la cosa più importante;</li>
+    <li>Quando registri o raccogli prove, pensa sempre a una scusa nel caso qualcuno/a di cui non ti fidi faccia domande;</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
