@@ -20,5 +20,22 @@
 <p>Per raccontare i fatti puoi iniziare con una breve descrizione di una tua giornata tipo. Questo aiuta chi legge a capire il contesto in cui i fatti sono avvenuti. Assicurati di raccontare che tipo di vita conduci o conducevi all’epoca dei fatti, perché ti sei sentita in pericolo, impotente o spaventata senza però entrare troppo nei dettagli né raccontare uno per uno tutti i fatti accaduti.</p>
 <p>Scegli quindi i fatti principali e più significativi e presentali in ordine cronologico. Offri solo i dettagli che servono a sostenere il tuo caso e che dimostrano la natura violenta della relazione in cui ti trovi. Sebbene sia importante essere precisa, se la tua dichiarazione diventa troppo lunga e dettagliata, potrebbe diventare difficile per chi legge cogliere il punto della tua testimonianza. Quando lo ritieni importante, spiega il contesto in cui si sono svolti i fatti (vedi sopra) e fai riferimento alle prove a sostegno che presenti in allegato alla dichiarazione. Puoi fare riferimento a cose che le persone hanno detto riguardo ai fatti, ma ricordati di specificare sempre chi ha detto cosa. Per esempio, se hai sentito dire da amici o parenti che il tuo partner sta diffondendo diffamazioni e falsità sul tuo conto, puoi includere queste cose nella tua dichiarazione. Prova a mettere per iscritto le date in cui hai sentito questo genere di voci: questo comunica un senso di trasparenza a chi legge la tua dichiarazione.</p>
 <p>Questo è lo spazio in cui presentare la tua storia. Cerca di esprimerti con parole tue e descrivi i fatti per come li hai vissuti tu, invece che usare un linguaggio troppo specializzato e impersonale. Allo stesso tempo, però, cerca di concentrarti sulla ricostruzione dei fatti, piuttosto che sulle emozioni. Ovviamente puoi esprimere come le violenze ti hanno fatta sentire, ma assicurati che la tua dichiarazione abbia come centro la ricostruzione dei fatti. Qui sotto puoi trovare esempi di frasi da evitare perché troppo impersonali (esempio 1), o che dimostrano un’emotività eccessiva (esempio 2), e frasi ben bilanciate come l’esempio 3.</p>
-<p></p>
-<p></p>
+<h3>(1) Descrizione troppo impersonale di un abuso</h3>
+<blockquote>«Nel 2015 la situazione è degenerata. Lui ha iniziato ad infliggermi violenze, sia fisiche che di altro tipo. Ogni volta che tentavo di contattare le autorità, il mio partner, già colpevole di violenza domestica contro di me, impiegava la forza per impedirmi di portare avanti il mio scopo.»</blockquote>
+<blockquote>«Usava costantemente un linguaggio oltraggioso ogni qualvolta si rivolgesse e me e a nostro figlio. Inoltre, mi minacciava per dissuadermi dal comunicare la situazione ad altre persone.»</blockquote>
+<h4>Queste frasi:</h4>
+<ul>
+    <li>Suonano poco naturali e artefatte e non aiutano ad far emergere una narrazione scorrevole dei fatti.</li>
+    <li>Utilizzano un lessico troppo formale.</li>
+    <li>Minimizzano l’abuso: dire «Usava costantemente un linguaggio oltraggioso» non spiega necessariamente gli effetti che la violenza verbale aveva su di te e quindi perché si trattava di un abuso. È importante, invece, dare spazio proprio a questo aspetto: insultarti è un abuso e come questo ti ha fatto sentire è importante.</li>
+</ul>
+<h3>(2) Descrizione eccessivamente emotiva dell’abuso</h3>
+<blockquote>«Dopo un po’, tutto ha cominciato ad andare male e ho pensato che non ce la facevo più. Piangevo e piangevo tutto il giorno e mi sentivo completamente indifesa. Mi picchiava e mi prendeva a calci e io mi sentivo morire, così terrorizzata com’ero ogni momento. Mi ha fatto cose che mi hanno fatto sentire peggio di una pezza da piedi, senza nessun valore. Avevo così tanta paura che non avevo nemmeno il coraggio di chiamare la polizia.»</blockquote>
+<blockquote>«Il modo in cui mi parlava mi ha sempre terrorizzato e fatto sentire triste e depressa. Diceva spesso anche cosa che mi facevano temere per la mia sicurezza.»</blockquote>
+<h4>Queste frasi:</h4>
+<ul>
+    <li>Sono troppo vaghe: non presentano esempi specifici, né le date in cui sono accaduti i fatti.</li>
+    <li>Si concentrano sulle emozioni piuttosto che sui fatti. Questo può distrarre chi legge e fargli perdere il filo che lega insieme la narrazione di quello che ti è successo.</li>
+    <li>Sono ripetitive e non aggiungono elementi nuovi o rilevanti alla tua dichiarazione.</li>
+</ul>
+
