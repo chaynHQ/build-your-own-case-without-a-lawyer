@@ -1,0 +1,16 @@
+<h2>TIPO DI PROVA: AUDIO</h2>
+<h3>COSA INCLUDERE (in breve)</h3>
+<ul>
+    <li>File audio</li>
+    <li>Data e durata delle registrazioni</li>
+    <li>Una lettera che spieghi il contenuto delle registrazioni e di chi sono le voci che si sentono</li>
+    <li>Trascrizioni nella lingua originale</li>
+    <li>Traduzione letterale nella lingua usata dalle persone a cui stai sottoponendo il caso</li>
+</ul>
+<p>Questo può essere fatto da un’agenzia specializzata in traduzioni professionali, da qualcuno che conosci o da te stessa.</p>
+<p>Includi i nomi e i contatti sia del traduttore che di chi ha trascritto i file audioSe la traduzione non è fatta correttamente in alcuni punti, sottolinea gli errori con un evidenziatore. Poi aggiungi una nota in cui spieghi quale passaggio o parola sono stati tradotti o interpretati in maniera sbagliata e fornisci la traduzione corretta.</p>
+<h3>IN DETTAGLIO</h3>
+<p>Spesso prove <strong>fotografiche audio e video</strong> possono esse molto utili per i casi di violenza, ma è importante ricordare che non sono sempre prove esaustive: una registrazione presa fuori contesto può essere male interpretata, oppure interpretata in maniera contraddittoria. Ciò significa che è sempre importante <strong>includere una descrizione</strong> della registrazione: il contesto all’interno del quale sono avvenuti i fatti (ad esempio: il luogo, cosa è successo subito prima della registrazione, …), come è stata registrata (con quale strumento) e chi è che si sente durante la registrazione.</p>
+<p>Quando le registrazioni non sono molto chiare è importante trascrivere il testo e annetterlo alla descrizione della registrazione; se i dialoghi sono in più lingue è opportuno trascriverli in tutte le lingue ascoltate e tradurli. <strong>E’ preferibile che la traduzione sia fatta da un professionista;</strong> nel caso non sia possibile, è meglio che sia fatta da te stessa o da qualcuno che ti conosce. Se la traduzione è imprecisa in alcuni punti, evidenziali nel testo e riscrivili in una nota separata per una corretta interpretazione. Ricorda di indicare chi ha fatto la traduzione con i suoi contatti.</p>
+<p>Le registrazioni audio possono essere utili in molteplici modi. Queste possono documentare l’abuso, oppure possono riguardare una conversazione in cui si fa uso di linguaggio violento, in cui si parla di abusi precedentemente avvenuti o si minacciano abusi e violenze future.</p>
+<p><strong>Conservare prove audio è estremamente importante ma allo stesso tempo può essere rischioso: è molto importante, infatti, usare la massima cautela per la propria incolumità. </strong></p>
