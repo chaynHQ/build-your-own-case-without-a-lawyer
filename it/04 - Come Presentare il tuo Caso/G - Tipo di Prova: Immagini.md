@@ -37,3 +37,6 @@
             </ul>
         </li>
     </ul>
+<h3>ESEMPIO</h3>
+<p><strong>Foto della violenza.</strong></p>
+<blockquote>“una volta sono stata picchiata violentemente, ricordo che ho avuto l’opportunità di fotografare la prova ma mi sono fermata, pensando all’umiliazione e a cosa avrebbero detto di me le persone che l’avrebbero vista. Ho perfino negato a me stessa e ad altri di aver avuto l’opportunità di prendere questa prova. Ho riflettuto ora su questa decisione perché è venuto il momento di agire, ho realizzato che non prendere queste prove nel momento giusto ha fatto un danno a me e un favore al mio partner violento. Ora non ho paura di raccoglierle, infatti questo mi ha rafforzata e ho intenzione di usarle per riconquistare la mia libertà.”<strong> Coraggiosa di 26 anni</strong></blockquote>
