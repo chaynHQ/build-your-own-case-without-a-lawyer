@@ -26,3 +26,27 @@
     <li>È estremamente importante che il dichiarante racconti la prima volta in cui hanno scoperto che tu stessi vivendo una situazione di un abuso e come ne sono venuti a conoscenza.</li>
     <li>Assicurati che firmino la dichiarazione. Questo può essere fatto o a penna, una volta stampato il documento, oppure utilizzando la firma digitale.</li>
 </ul>
+<h3>IN DETTAGLIO</h3>
+<p>Le dichiarazioni di terzi a tuo sostegno possono servire a diversi scopi a seconda di quale sia il motivo per cui stai preparando il tuo caso. Anche se è importante lasciare che le persone che scrivono queste dichiarazioni siano libere di esprimere le proprie opinioni, assicurati che sappiano per quale scopo utilizzerai le loro dichiarazioni e fagli capire perché è importante che ti aiutino a raggiungere il tuo obiettivo. Per esempio, se stai cercando di ottenere la custodia dei tuoi figli, puoi chiedere che parlino del tuo modo di stare con loro, del tuo senso di responsabilità e della tua relazione con loro. Se stai facendo domanda per ottenere asilo, potresti invece chiedere a chi ti aiuta di parlare della tua relazione con un partner violento, confermando quindi gli abusi che tu denunci e come il tornare nel tuo paese costituirebbe un rischio per la tua incolumità. Ovviamente il contenuto della dichiarazione dipenderà anche da chi la scrive: il tuo datore di lavoro molto probabilmente potrà parlare della tua affidabilità e della tua ottima reputazione; un membro della tua famiglia, un vicino o un amico saranno invece in grado di parlare di te, ma anche della tua relazione con la persona che abusa di te.</p>
+<p>Chiedi alle persone che scelgono di testimoniare a tuo favore di inserire all’inizio del documento una breve introduzione su chi sono, quale relazione hanno con te e per quale motivo hanno deciso di scrivere la dichiarazione in tuo supporto. È importante per chi legge che dalla dichiarazione emergano chiaramente:</p>
+<ol>
+    <li>I dettagli sull’identità del dichiarante (vedi sopra)</li>
+    <li>Che tipo di relazione lega te e il dichiarante</li>
+    <li>Quando è stata la prima volta in cui il dichiarante è venuto a conoscenza dell’abuso e in che modo</li>
+    <li>Dettagli sugli incidenti a cui il dichiarante ha assistito</li>
+    <li>Dettagli sugli incidenti a cui il dichiarante non ha assistito, ma di cui è venuto a conoscenza da altri e da chi ne è venuto a conoscenza</li>
+    <li>Ogni elemento che possa provare che le conversazioni citate sopra (quelle in cui il dichiarante ha avuto notizia degli abusi) siano avvenute, come ad esempio
+        <ol>
+            <li>Screenshot che mostrano le chiamate Skype avvenute</li>
+            <li>Screenshot di messaggi ricevuti su Facebook/Twitter</li>
+            <li>Screenshot di chiamate ricevute sul cellulare o messaggi ricevuti sul cellulare o Whatsapp</li>
+            <li>Bollette telefoniche</li>
+            <li>Lettere</li>
+        </ol>
+    </li>
+</ol>
+<p>Così come hai fatto tu nella tua dichiarazione personale, chiedi alle persone che scrivono dichiarazioni in tuo supporto di essere concise, specifiche e di dare rilievo ai fatti principali. Per esempio, se il tuo datore di lavoro vuole dire che sei una persona affidabile, dovrebbe: 1) esprimerlo in maniera chiara e concisa; 2) sostenere la sua opinione con degli esempi concreti. Per esempio potrebbe scrivere: «X è una persona affidabile su cui si può contare. Durante il lavoro svolto presso la nostra azienda ha portato a termine compiti che richiedevano un alto grado di responsabilità e capacità di prendere decisioni in maniera indipendente e ha sempre concluso il lavoro nei tempi stabiliti.» Se invece un tuo vicino o un tuo amico sta scrivendo una dichiarazione in cui vuole dimostrare la natura violenta della relazione in cui ti trovi, chiedigli di essere il più specifico possibile. Se ricorda le date precise dei fatti a cui fa riferimento (per esempio le urla di una lite che ha sentito, o una chiamata alla polizia, o quando ti ha visto con segni di percosse) chiedigli di includerle.</p>
+<p>Una volta che hai messo insieme tutte le dichiarazioni, assicurati di includere la lettera di presentazione in cui si trovi anche un elenco o uno schema che dia a chi legge un quadro generale di quello che troverà poi nelle singole dichiarazioni.</p>
+<p>Dai un’occhiata all’esempio che si trova nella sezione Appendice.</p>
+<h3>MODULO/ESEMPIO</h3>
+<p>Vedi la sezione Appendice.</p>
