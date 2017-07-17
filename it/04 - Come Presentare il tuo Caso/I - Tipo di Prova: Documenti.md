@@ -15,3 +15,12 @@
 <p>In altri casi, l’organizzazione non sa come fornire la prova. Ad esempio, la scuola può aver notato che il bambino è distratto, o ha paura o si è confidato con qualche insegnante raccontando cosa sta accadendo a casa. L’insegnante può trovarsi in difficoltà e non sapere come fornire questa prova.</p>
 <p>In casi come questo, tutto ciò che serve è una dichiarazione da parte dell’insegnante su ciò che sa, ma assicurati che tale dichiarazione sia firmata, contenga la data e includa una copia di un documento. Se sono riluttanti a fornire il documento, assicurati almeno che la dichiarazione abbia il nome per esteso della persona che la sta rilasciando. In questo modo se l’autorità lo ritenesse opportuno saprebbe come rintracciarli.</p>
 <p>Allo stesso modo se hai segnalato abusi alla polizia e poi non è successo niente, questo può essere considerato una prova perché mostrerà che già in passato avevi chiesto aiuto.</p>
+<p><strong>Se non disponi di questo tipo di dichiarazioni - non preoccuparti troppo. È possibile compensare tale mancanza, rafforzando altre sezioni.</strong></p>
+<p>Quindi, prendi carta e penna.</p>
+    <ol>
+        <li>Pensa a tutte le possibili organizzazioni e le persone che sono state in contatto con o che possono conoscere la vostra situazione. Scrivi un elenco.</li>
+        <li>Trova la persona giusta da contattare.</li>
+        <li>Pensa qual è modo migliore per avvicinarsi a loro. Dì loro di usare la massima riservatezza se siete ancora con il vostro partner violento.</li>
+        <li>A seconda del rapporto che avete con questa persona, è meglio parlare faccia a faccia.  Così infatti è anche possibile affidare a queste persone una lettera o un elenco di punti da includere nella loro dichiarazione, in modo da non dimenticare quello che avete chiesto e le informazioni di cui hanno bisogno. Assicurati di spiegargli il contenuto della lettera e/o dell’elenco.</li>
+        <li>Se ti stai rivolgendo ad una organizzazione, come ad esempio un centro antiviolenza, puoi fare una richiesta scritta per ottenere una dichiarazione sugli incontri che avete avuto in precedenza e il percorso che stai facendo.</li>
+    </ol>
