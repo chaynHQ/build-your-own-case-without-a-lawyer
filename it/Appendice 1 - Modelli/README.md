@@ -1,0 +1,2 @@
+<h1>Appendice 1 — Modelli</h1>
+<p>Questi modelli sono stati realizzati in una forma utile per diversi tipi di scenari. Naturalmente non tutti potranno essere applicati e non sono completamente esaustivi.</p>

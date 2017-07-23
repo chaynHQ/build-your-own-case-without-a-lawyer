@@ -1,0 +1,9 @@
+<h2>MODELLO PER LETTERA DI PRESENTAZIONE</h2>
+<p><em>A chi di competenza</em> (è possibile sostituirlo con il nome della persona a cui stai scrivendo se la conosci).</p>
+<p>Il mio nome è [NOME], ho [INSERIRE L’ETA’] anni e attualmente vivo a [DOVE ABITI]. Vi scrivo per sottoporre il mio caso/ottenere il divorzio da mio marito [NOME]/ottenere asilo in un altro paese [o comunque inserire ciò che si sta chiedendo].</p>
+<p>Per gli ultimi [x] anni/mesi, mio [MARITO/GENITORE/ RAPPORTO CON AGGRESSORE] ha abusato di me.</p>
+<p>Il suo nome è [NOME]. L’abuso e la violenza fisica e mentale mi hanno impaurita e ho temuto per la mia vita e quella dei miei figli [si consiglia di personalizzare questa frase per far capire cosa avete provato e quali sono state le vostre paure, sottolineando lo stress provocato dal vostro abusatore]. Ho raccolto le prove, che allego, per documentare gli abusi che ho subito.</p>
+<p>Le prove, in forma di [ELENCO DEI TIPI DI PROVE FORNITE: DICHIARAZIONI UFFICIALI E RELAZIONI, FILE AUDIO, DOCUMENTI DEGLI ABUSI, FOTO DEI DANNI, prove fotografiche di conversazioni tra di voi, il vostro aggressore e la sua famiglia], così come le dichiarazioni di sostegno da [la persona, l’ente o l’organizzazione che ha fornito le dichiarazioni] mostrano la natura del mio rapporto con [NOME], documentano le violenze che ho subito. E’ evidente che ho ragione di temere per la mia vita. Pertanto vi invito a sostenere la mia [COSA si richiede: ASILO/DIVORZIO/BAMBINO IN CUSTODIA], affinché possa sfuggire al mio aggressore.</p>
+<p>Allego le prove che ho raccolto. Spero che dopo averle viste possiate capire la difficile situazione in cui mi trovo e possiate prendere in considerazione la mia richiesta di [COSA STAI CHIEDENDO].</p>
+<p>Cordiali saluti,</p>
+<p>[NOME/FIRMA+DATA]</p>
