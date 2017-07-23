@@ -41,5 +41,6 @@
 <blockquote>Dopo averlo lasciato ( 18/12/2010) ha iniziato a inviarmi messaggi con insulti e minacce. Mi ha scritto «se ti prendo ti spacco le gambe»; «dirò a tutti che stai inventando tutto, metterò contro di te anche la tua famiglia, puttana! Aspetta e vedrai...».</blockquote>
 <blockquote>Ricevo 5/10 messaggi del genere ogni giorno e continue chiamate sul mio cellulare. Allego l' immagine della cronologia delle chiamate [Prova n.4] e di alcuni sms [Prova n. 5-15].</blockquote>
 <blockquote>Ha fatto una pagina su facebook con il titolo “cercasi Alessandra” invitando tutti gli amici e miei parenti a dare il loro like [prova 22].</blockquote>
-<blockquote></blockquote>
+<blockquote>Ha scritto su facebook delle bugie e calunnie su di me, ad esempio che io sono stata con lui solo per i soldi e che l'ho lasciato appena ho trovato un altro ragazzo con più soldi di lui. Allego anche le immagini dal suo facebook [Prova n. 15-25].</blockquote>
+<blockquote>Amici e parenti hanno iniziato a parlare di me come di una donna disonesta e i miei genitori si vergognano di me.  Hanno anche cominciato a dirmi di tornare dal mio partner violento perché sennò avrebbero chiamato la polizia. Alcuni hanno anche iniziato ad insultarmi dicendomi che lui è un bravo ragazzo e che merito di essere maltrattata per quello che gli ho fatto.</blockquote>
 
