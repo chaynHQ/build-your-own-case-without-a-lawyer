@@ -9,11 +9,11 @@
         <th>Qualquer outro breve detalhe que seja necessário</th>
     </tr>
     <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
+        <td> <br /> </td>
+        <td> <br /> </td>
+        <td> <br /> </td>
+        <td> <br /> </td>
+        <td> <br /> </td>
     </tr>
 </table>
 <h3>EXEMPLO PARA DEPOIMENTO PESSOAL</h3>
