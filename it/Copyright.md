@@ -42,4 +42,6 @@
 </ol>
 <h3>3. MODIFICHE</h3>
 <p>Ci riserviamo il diritto di modificare questa dichiarazione periodicamente.</p>
+<h3>4. LEGGE APPLICABILE E FORO COMPETENTE</h3>
+<p>Questa dichiarazione è governata da ed è da interpretarsi secondo legge applicabile del paese interessato.</p>
 
