@@ -12,3 +12,17 @@
 <a href="http://chaynitalia.org/">http://chaynitalia.org/</a>
 <p>@Chayn_Italia | <a href="https://www.facebook.com/chaynitalia/">facebook.com/chaynitalia</a> | #ChaynItaliaa</p>
 <p><a href="mailto:info@chaynitalia.org">info@chaynitalia.org</a></p>
+<h3>PERSONE CHE HANNO CONTRIBUITO:</h3>
+    <ul>
+        <li>Hera Hussain</li>
+        <li>Maryam Amjad</li>
+        <li>Agnieszka Fal</li>
+        <li>Shyma Jundi</li>
+        <li>Amy Johnson</li>
+        <li>Mahnoor Rathore</li>
+        <li>Ian D. Tran</li>
+        <li>Eileen Macqueen</li>
+        <li>Claire Harrison</li>
+        <li>Apoorva Kaiwar</li>
+        <li>Kat Alexander</li>
+    </ul>
