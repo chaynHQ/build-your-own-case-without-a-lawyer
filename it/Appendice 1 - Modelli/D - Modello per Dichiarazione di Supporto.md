@@ -16,3 +16,13 @@
 <blockquote>Ho visto [Nome] il giorno dopo il matrimonio. E' venuta a casa mia e mi ha raccontato che [Nome] aveva preteso di avere un rapporto sessuale senza usare contraccettivi, che lei si era opposta perché non voleva rimanere incinta e che lui l'aveva costretta.</blockquote>
 <blockquote>Pochi mesi dopo il matrimonio ho incontrato [Nome] e ho notato dei lividi sulle sue braccia. Quando le ho chiesto come se li fosse procurati, ha inizialmente risposto che non era niente di serio, ma poi ha ammesso che suo marito la picchiava e che le impediva di uscire ed incontrare i suoi amici.</blockquote>
 <blockquote>Dopo che [Nome] sposò [Nome] diventò distratta sul lavoro. Ho anche notato dei segni di violenza fisica su di lei. Ha iniziato ad assentarsi sempre più spesso, e quindi ho deciso di contattare un suo amico, [Nome], che ha confermato i miei sospetti confidandomi di sapere che il marito le faceva violenza.</blockquote>
+<h3>TERZO PARAGRAFO</h3>
+<p><strong>Cronologia degli eventi relativi agli abusi. E' importante descrivere tanto la relazione quanto l'impatto che ha avuto su di lei e i passaggi che hanno fatto sì che si agisse contro l'autore della violenza. Includi, se possibile, le date esatte degli eventi. </strong></p>
+<blockquote>Nel corso dei mesi ho iniziato a parlare molto con [Nome] e ho scoperto la natura violenta della sua relazione. [Nome dell'autore della violenza] le vietava di uscire e di trascorrere del tempo con le amiche, l'aveva costretta ad abbandonare il lavoro e la picchiava ogni volta che non eseguiva un suo ordine. L'ho vista trasformarsi: da forte e allegra, era diventata insicura e fragile. Quando è rimasta incinta era terrificata. A quel punto ho deciso di aiutarla a scappare da quella relazione e [tipo di azione, anche legale, intrapresa].</blockquote>
+<p>INCLUDI UNA DESCRIZIONE DETTAGLIATA DELLE FASI DEGLI ABUSI DI CUI SEI A CONOSCENZA E LE REAZIONI DELL'AUTORE DELL’ABUSO O DELLA FAMIGLIA.</p>
+    <ul>
+        <li>Che sviluppi ha avuto il tuo coinvolgimento nella vicenda? Sei stato/a testimone degli abusi? Hai reagito in qualche modo?</li>
+        <li>Dove sono avvenuti e quando (data) gli eventi di cui sei stato/a testimone? Hai notato delle contusioni? Hai ascoltato casualmente qualcosa? Hai assistito a degli abusi?</li>
+        <li>Hai osservato(1) l'impatto delle violenze (cambiamento di atteggiamenti o del carattere), (2) le reazioni della famiglia di lui e di lei agli abusi?</li>
+        <li>Includi anche le altre esperienze con l'abusatore: ti ha aggredito/a o ha tentato di spaventarti quando ha saputo che la stavi aiutando?</li>
+    </ul>
