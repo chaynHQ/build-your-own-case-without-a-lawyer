@@ -21,9 +21,9 @@
     * [Modello per Lettera di Presentazione](Appendice 1 - Modelli/A - Modello per Lettera di Presentazione.md)
     * [Cronologia](Appendice 1 - Modelli/B - Cronologia.md)
     * [Dichiarazioni](Appendice 1 - Modelli/C - Dichiarazioni.md)
-* [Appendix 2: How to stay safe online](Appendix 2: How to Stay Safe Online/README.md)
-    * [5 minute online privacy checkup](Appendix 2: How to Stay Safe Online/5 minute online privacy checkup.md)
-* [Why we built this guide](Why we Built this Guide.md)
+* [Appendice 2: Sicurezza Online](Appendice 2 - Sicurezza Online/README.md)
+    * [Privacy Online in Soli 5 Minuti](Appendice 2 - Sicurezza Online/Privacy Online in Soli 5 Minuti.md)
+* [Perchè Abbiamo Creato Questa Guida](Perchè Abbiamo Creato Questa Guida.md)
 * [Copyright](Copyright.md)
 
 
