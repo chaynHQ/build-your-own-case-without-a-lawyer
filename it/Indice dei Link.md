@@ -18,6 +18,4 @@
                 <li>Windows: <a href="http://windows.microsoft.com/it-it/windows7/show-or-hide-recent-items-on-the-start-menu">http://windows.microsoft.com/it-it/windows7/show-or-hide-recent-items-on-the-start-menu</a></li>
             </ul>
         </li>
-        <li><a href=""></a></li>
-        <li><a href=""></a></li>
     </ul>
