@@ -3,3 +3,12 @@
 <p>Coloro che hanno contribuito a questa guida sono fermamente convinte che la tua vita sia importante per noi e per altri nel mondo. Per questo l’abbiamo creata. Molte di noi hanno affrontato e sopravvissuto abusi in prima persona e sperano che questa guida riduca altre inutili sofferenze. Spetta a te metterla in pratica per creare un futuro per te stessa, aiutandoti coinvolgendo persone e usando risorse come questa guida per andare avanti.</p>
 <p>Questa guida è stata scritta con le migliori intenzioni e se le informazioni possono a volte non essere accurate per il tuo contesto, i principi generali dovrebbero valere.</p>
 <p>Se hai trovato questa guida utile, ci aiuteresti molto se potessi mandarci un email (<a href="mailto:info@chaynitalia.org">info@chaynitalia.org</a>). Dal momento che siamo tutte volontarie e con un minuscolo budget, la tua esperienza con il nostro lavoro è per noi estremamente importante!</p>
+<p><strong>Un ultimo favore - ti chiediamo di condividere questa guida almeno con una persona che potrebbe trovarla utile.</strong></p>
+<h2>Chayn & Friends</h2>
+![](/assets/chayn-logo.png)
+<a href="http://chayn.co/ ">http://chayn.co/</a>
+<p>@ChaynHQ | <a href="https://www.facebook.com/chayn/">facebook.com/chayn</a> | #SpreadChayn</p>
+![](/assets/chayn-italia.png)
+<a href="http://chaynitalia.org/">http://chaynitalia.org/</a>
+<p>@Chayn_Italia | <a href="https://www.facebook.com/chaynitalia/">facebook.com/chaynitalia</a> | #ChaynItaliaa</p>
+<p><a href="mailto:info@chaynitalia.org">info@chaynitalia.org</a></p>
