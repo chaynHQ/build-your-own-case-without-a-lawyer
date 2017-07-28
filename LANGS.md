@@ -2,7 +2,7 @@
 
 * [English](en/)
 * [Português](pt/)
-* [Italiano](pt/)
+* [Italiano](it/)
 
 
 
