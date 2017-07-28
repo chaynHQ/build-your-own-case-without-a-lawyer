@@ -41,5 +41,5 @@
     <li>Per altre tipologie di danni, diretti o indiretti, che possano insorgere in seguito all’uso di questa guida.</li>
 </ol>
 <h3>3. MODIFICHE</h3>
-<p>Ci riserviamo il diritto di modificare questa dichiarazione periodicamente</p>
+<p>Ci riserviamo il diritto di modificare questa dichiarazione periodicamente.</p>
 
