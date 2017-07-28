@@ -4,11 +4,3 @@
 <p>Questa guida è stata scritta con le migliori intenzioni e se le informazioni possono a volte non essere accurate per il tuo contesto, i principi generali dovrebbero valere.</p>
 <p>Se hai trovato questa guida utile, ci aiuteresti molto se potessi mandarci un email (<a href="mailto:info@chaynitalia.org">info@chaynitalia.org</a>). Dal momento che siamo tutte volontarie e con un minuscolo budget, la tua esperienza con il nostro lavoro è per noi estremamente importante!</p>
 <p><strong>Un ultimo favore - ti chiediamo di condividere questa guida almeno con una persona che potrebbe trovarla utile.</strong></p>
-<h2>Chayn & Friends</h2>
-![](/assets/chayn-logo.png)
-<a href="http://chayn.co/ ">http://chayn.co/</a>
-<p>@ChaynHQ | <a href="https://www.facebook.com/chayn/">facebook.com/chayn</a> | #SpreadChayn</p>
-![](/assets/chayn-italia.png)
-<a href="http://chaynitalia.org/">http://chaynitalia.org/</a>
-<p>@Chayn_Italia | <a href="https://www.facebook.com/chaynitalia/">facebook.com/chaynitalia</a> | #ChaynItaliaa</p>
-<p><a href="mailto:info@chaynitalia.org">info@chaynitalia.org</a></p>
