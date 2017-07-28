@@ -26,3 +26,6 @@
         <li>Hai osservato(1) l'impatto delle violenze (cambiamento di atteggiamenti o del carattere), (2) le reazioni della famiglia di lui e di lei agli abusi?</li>
         <li>Includi anche le altre esperienze con l'abusatore: ti ha aggredito/a o ha tentato di spaventarti quando ha saputo che la stavi aiutando?</li>
     </ul>
+<h3>PARAGRAFO FINALE</h3>
+<p><strong>Perché la stai supportando e perché pensi che questa azione sia importante.</strong></p>
+<blockquote>[Nome] è un abusatore. Ha ripetutamente agito violenza sia fisica che psicologica su [Nome]. Mi ha anche aggredito quando ha scoperto che lei mi aveva raccontato delle violenze subite. [Nome] è stata privata della sua libertà, costretta a seguire le volontà del marito, incolpata per qualsiasi cosa. Anche la famiglia di lui le faceva violenza incolpandola di non essere una buona moglie. La trattavano come un oggetto di loro proprietà. Col tempo gli abusi sono divenuti sempre più gravi, e lei aveva iniziato a sentirsi in pericolo di vita. Avendo assistito ai cambiamenti dovuti alla relazione violenta e constatando l'evidenza di ciò che le stavano facendo, anch'io ho iniziato a temere per la sua incolumità, ed è per questo che [Richiesta].</blockquote>
