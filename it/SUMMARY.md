@@ -15,7 +15,7 @@
     * [Tipo di Prova: Immagini](04 - Come Presentare il tuo Caso/G - Tipo di Prova: Immagini.md)
     * [Tipo di Prova: Video.md](04 - Come Presentare il tuo Caso/H - Tipo di Prova: Video.md)
     * [Tipo di Prova: Documenti](04 - Come Presentare il tuo Caso/I - Tipo di Prova: Documenti.md)
-    * [Trechos Diários](04 - Apresentando o Seu Caso/J - Tipos de Evidência: Trechos Diários.md)
+    * [Altri Tipi di Prova: Diario](04 - Come Presentare il tuo Caso/J - Altri Tipi di Prova: Diario.md)
     * [E agora](04 - Apresentando o Seu Caso/K - E agora.md)
 * [Apêndice 1](README.md)
     * [Carta de Apresentação](Apêndice 1 - Modelos/A - Carta de Apresentação.md)
