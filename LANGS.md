@@ -3,6 +3,8 @@
 * [English](en/)
 * [Italiano](it/)
 * [Português](pt/)
+* [عربى / Arabic](ar/)
+
 
 
 
