@@ -1,5 +1,4 @@
 #المحتويات
-
 * [Prefácio](README.md)
     * [Índice dos Conteúdos](01 - Prefácio.md/Índice dos conteúdos.md)
 * [Como usar este Guia](02 - Como usar este Guia/Como usar este Guia.md)
