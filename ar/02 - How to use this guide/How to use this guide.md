@@ -64,3 +64,48 @@ If the Police are bringing a criminal case against an individual or individuals 
 
 إذا حركت أو باشرت الشرطة بالأجراءات الجنائية ضد فرد أو مجموعة  الأفراد الذين ارتكبوا أو يرتكبون حالياً اي اعتداء جسدي بحقك، يجب عليك أن توفر لهم كافة المعلومات والأدلة التي جمعتها مسبقاً. ستحتاج الشرطة أيضا إلى جمع المعلومات والتي من بينها إجراء مقابلة معك لضمان الحصول على إفادتك الشخصية. وربما الحصول على أمر تقييد قضائي.
 إذا كانت الشرطة غير مستعدة للتحقيق في قضيتك، يمكنك اللجوء إلى المنظمات التي تساعد ضحايا العنف المنزلي لتجلب قضاياهم إلى المحكمة. يعتمد ذلك على مكان وجودك، وهذه قائمة بالمنظمات المفيدة في هذا المجال وهي متاحة [هنا](http://chayn.co/).
+
+The section on presenting the information will be most helpful to you if you are putting together a case relating to their immigration status and other agencies. However, you can also use this section to present your case to the Police, the Prosecutor, or any organisation assisting you, in order to maximise the chances of their involvement in your case, even if  they are initially unwilling to.
+
+يعمل هذا القسم  أيضاًعلى تقديم معلومات مفيدة للغاية إذا كنت تعمل على تجميع قضية تتعلق بحالة المهاجرين الأخرى. و ذلك لتقديم قضيتك إلى الشرطة أوالمدعي العام، أو أي منظمة قد تعمل على مساعدتكم حتى ولو كانوا غير راغبين بذلك في البداية.
+
+You may have suffered abuse, are working through a legacy of abuse, or are still working through abuse right now. It's important to remember that you don’t deserve to be oppressed, you deserve respect.
+
+اذا عانيت، أو ما زلت تعاني من سوء المعاملة، رجاء كن على يقين أن لا أحد يستحق هذه المعاملة، أن يكون مظلوم، كل انسان يستحق الاحترام.
+
+You take real action towards making a future for yourself in the present by seeking help from people and resources like this guide that uphold your rights.
+
+تستطيع اتخاذ إجراءات حقيقية نحو صنع مستقبل أفضل لنفسك من خلال طلب المساعدة من الناس والموارد مثل هذا الدليل. فقط عليك التمسك بحقوقك.
+
+##WHAT IS DOMESTIC VIOLENCE?
+##ما هو العنف المنزلي؟
+
+Domestic violence is a type of mistreatment and includes physical, sexual, or psychological abuse. There are different types of domestic violence: it can occur in a lot of different ways, and it can happen to anyone, in any kind of relationship. 
+
+العنف المنزلي هو نوع من سوء المعاملة ويشمل الاعتداء الجسدي والجنسي والنفسي. هناك أنواع مختلفة من العنف المنزلي: حيث أنه يمكن أن يحدث في الكثير من الطرق المختلفة، ويمكن أن يحدث لأي شخص، في أي نوع من العلاقة.
+
+If another person’s actions put physical, psychological, or emotional strain on you, or if you feel hurt in any way and at any time, you might be experiencing abuse. Abuse is a recurring phenomenon and can be inflicted by anyone including your partner, parents, siblings, children, relatives, and in-laws. You can find more information about what constitutes domestic violence and abuse below, as well as on the [Chayn](http://chayn.co/), [Chayn India](http://chaynindia.com/) and [Chayn Pakistan](http://chaynpakistan.org/) websites.
+
+أي أذى بدني أونفسي، أو حتى عاطفي يقع عليك، بأية طريقة وفي أي وقت، قد يعتبر نوع من سوء المعاملة والعنف. الاعتداء هو ظاهرة متكررة ويمكن أن تلحق من قبل أي شخص بما في ذلك شريك حياتك، والآباء، والأشقاء، والأطفال، والأقارب، وحتى القوانين. يمكنك العثور على مزيد من المعلومات حول ماهية العنف المنزلي والاعتداء أدناه، وكذلك على [Chayn](http://chayn.co/) [Chayn India](http://chaynindia.com/), و [Chayn Pakistan](http://chaynpakistan.org/).
+
+While there is no internationally agreed definition of domestic violence, and different countries have different definitions, for women, United Nations defines “violence” as “any act of gender-based violence that results in, or is likely to result in, physical, sexual or psychological harm or suffering”.  Some countries extend this definition, and recognise that emotional harm and financial control can be part of this abuse, as well as ‘honour’ based violence, Female Genital Mutilation, and forced marriage. In some cultural contexts, forced/child marriage or marital rape can be very controversial issues. Regardless of where you live, you should collect evidence of any such events - they can prove useful in building your case later on.
+
+في حين أن تعريف العنف المنزلي متفق عليه دولياً، فأن بعض البلدان لديها تعريفات مختلفة، وتعرف الأمم المتحدة "العنف" بأنه "أي فعل عنيف تدفع إليه عصبية الجنس ويترتب عليه، أو يرجح أن يترتب عليه، أذى بدني أو جنسي أو الأذى النفسي أو المعاناة". بعض البلدان تمد هذا التعريف، ليشمل الضرر النفسي والتحكم المالي حيث أنه من الممكن أن يكون جزءاً من هذا الأعتداء، فضلا عن العنف القائم على أساس "الشرف"، ختان الإناث، والزواج القسري. في بعض المجتمعات، يمكن لقضايا الزواج القسري/ زواج الأطفال أو الإغتصاب الزوجي أن تكون مثيرة للجدل. بغض النظر عن المكان الذي تعيش فيه، يجب عليك جمع الأدلة من هذه الأحداث - لأنها يمكن أن تكون مفيدة في بناء قضيتك في وقت لاحق.
+
+If you are facing any of the above forms of abuse from your intimate partner, family or in-laws: whether physical, sexual, psychological, emotional, or financial, this guide has been created for you. It is designed to help you collect and present evidence of the abuse. Collecting evidence is extremely important - you can use it when filing for divorce, pressing criminal charges against the perpetrator, or applying for asylum.
+
+إذا كنت تواجه أي من أشكال إساءة المعاملة المذكورة أعلاه من  شريك حياتك أوالعائلة أو الأصهار، سواء الجسدي والجنسي والنفسي والعاطفي، أو حتى الإبتزاز المالي، فأن هذا الدليل قد تم إنشاءه لهذا الغرض. وهو مصمم لمساعدتك على جمع وتقديم الأدلة من سوء المعاملة. إن جمع الأدلة هو مهم للغاية - حيث يمكنك استخدامه عندما تتقدم بطلب للحصول على الطلاق، أوالضغط بتوجيه اتهامات جنائية ضد الجاني، أو بطلب اللجوء.
+
+While you should not rely on this guide to win a case or as the only guide for every legal scenario, it can be a helpful resource for you. If you seek legal help, this should speed up the process of preparing your case. 
+
+ يجب أن لا تعتمد على هذا الدليل كلياً لكسب القضية، نظراً لاختلاف السيناريو القانوني تبعاً لكل قضية. على أنه يمكن أن يكون مصدراً مفيداً لك، في حال كنت تسعى للمساعدة القانونية، وهذا يسرع في عملية إعداد قضيتك.
+ 
+We’ve put as much information as we can in the guide. If at any point you feel overwhelmed, close this guide. Take a break. Come back to it and start again when you feel you can. You will be fine.
+
+لقد وضعنا في هذا الدليل أكبر قدر من المعلومات. في أية لحظة تشعر بها بالإرهاق، أغلق هذا الدليل. خذ استراحة. عد إليه وابدء من جديد عندما تشعر بأنك على ما يرام.
+
+**You can do this!**
+
+**نعم يمكنك فعل ذلك!**
+
+ 
