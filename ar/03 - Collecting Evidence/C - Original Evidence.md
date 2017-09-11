@@ -1,6 +1,0 @@
-###Original Evidence
-###الأدلة الأصلية
-
-Original evidence is a statement made outside court proceedings (for example, if  during an incidence of abuse your abuser says, “I’m going to kill you!”). The statement is made not to prove the truth of its contents, but rather for other purposes, for example to provide the relevant context to the situation, or otherwise strengthen your case - it corroborates your story. For example, in the case of your abuser saying “I’m going to kill you!”, the purpose of including this statement is not to prove whether or not he/she wanted to kill you, but rather to illustrate his or her violent character, and the abusive nature of the relationship.
-
-الدليل الأصلي هو البيان أو الأعتراف الذي أدلي به خارج الإجراءات القضائية (على سبيل المثال، إذا أثناء حدوث الاعتداء المسيء يقول: "سأقتلك!"). يستخدم ذلك كدليل على العنف، على سبيل المثال توفير سياق ذي صلة بالوضع، أو غير ذلك لتعزيز قضيتك – كما أنه يعزز الرواية الخاصة بك. على سبيل المثال، في حالة الشخص الذي يعتدي عليك قائلا "أنا سأقتلك!"، فأن الغرض من هذا الأعتراف ليس الاثبات ما اذا كان يريد قتلك، وإنما لتوضيح طبيعة العلاقة المسيئة.
