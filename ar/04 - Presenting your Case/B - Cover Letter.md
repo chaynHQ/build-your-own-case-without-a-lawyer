@@ -30,3 +30,11 @@ When introducing yourself, stay very brief. Just state your name, your status, a
 At this point, do not get into details of describing or explaining your evidence. Instead, say something like: “The evidence I collected, in the form of documents, audio evidence, as well as witness statements, clearly shows the abusive nature of the relationship, and supports my need to escape it for my own safety.” The details can come in the personal statement section.
 
 عند هذه النقطة، لا تدخل في التفاصيل لوصف أو شرح شهادتك. بدلاً من ذلك، قل شيئا مثل: "إن الأدلة التي جمعتها، في شكل وثائق، الدليل الصوتي ، وكذلك أقوال الشهود، تظهر بوضوح طبيعة العلاقة المسيئة ، ويدعم حاجتي إلى الخروج منها حفاظاً على سلامتي". التفاصيل يمكن أن تأتي في قسم البيان الشخصي.
+
+###TEMPLATE/EXAMPLE
+
+###أمثلة
+
+See the Appendix.
+
+تفحص الفهرس.
