@@ -26,3 +26,43 @@ As with the audio evidence, be careful when taking and storing the picture - mak
 كما في الأدلة الصوتية, كن حذرا عندما تقوم بالتقاط الصورة وحفظها - تأكدمن أن المعتدي لن يقوم بايجادهم. يجب عليك أن تقوم بحفظ نسختين الكترونية و مطبوعة وخلأها في مكان امن. يمكنك أيضا أن ترسلها عبر البريد الالكتروني لشخص تثق به
 If you receive any text or any form of correspondence from your abuser or a friend/family of the abuser - keep it. Don’t delete it.
 اذا استلمت أي رسالة أو أي شيء من المعتدي, او صديق المعتدي أو عائلته - قم بحفظها. لا تقم يحذفها
+###Types of pictures you can include:
+###أنواع الصور
+
++ Screenshots of:
+    + Facebook statuses
+    + Private Messages
+    + Any social media communication
+    + SMS - a screenshot/photo of the SMS is a much more powerful piece of evidence than simply repeating what is said! 
+    
+رسائل خاصة
+أي من وسائل الاتصال الاجتماعي
+من أقوى الأدلة :SMS / صورة لل SMS لقطة  
++ Pictures of injury
+    + of yourself - documenting why you feel threatened
+    + of someone else - showing the violent character of your abuser
+    صور من الإصابة
+من نفسك - توثيق لماذا تشعر بأنك مهددة
+شخص آخر - تظهر الطابع العنيف للمسيء
++ Pictures evidencing your day-to-day life and the emotional, psychological and physical harm you experienced through it
+    + pictures of your home/room; anything that you made you feel repressed, depressed, or threatened throughout the relationship
+الصور التي تثبت حياتك يوما بعد يوم والضرر العاطفي والنفسي والجسدي الذي واجهته من خلال ذلك
+صور من منزلك / الغرفة؛ أي شيء يوضح شعورك بالكبت، والاكتئاب، أو التهديد في جميع مراحل العلاقة
++ Pictures of the tools used for abuse (if there were any), in particular if this use is visible (e.g. if there is blood on them).
+صور من الأدوات المستخدمة في سوء المعاملة (إذا كان هناك أياً منها)، ولا سيما إذا كان هذا الاستخدام واضح (على سبيل المثال إذا كان عليهم دم ).
++ Pictures of ID documents/property papers and any other proof of your status and relationship with the abuser you cannot hold a physical copy of - for example, a marriage licence, or even a photo from your wedding day.
+صور من وثائق الهوية / أوراق الملكية وأي دليل آخر على وضعك والعلاقة مع المسيء - على سبيل المثال، لا يمكنك اجراء نسخة مادية من رخصة الزواج، أو حتى صورة من يوم الزفاف.
+
+Just like with audio recordings, you should gather this evidence even if you are unsure if it will be helpful. You never know when you might need it to help you convince someone to support you!
+كما هو الحال مع التسجيلات الصوتية، يجب عليك جمع هذه الأدلة حتى لو كنت غير متأكد ما اذا كان سوف يكون من المفيد استعمالها. أنت لا تعرف متى قد تحتاج هذه الأدلة لمساعدتك بإقناع شخص ما لدعمك!
+
+##EXAMPLE
+![](/assets/image02.jpg)
+> “One time I got beat up pretty badly, I remember that I had the opportunity to photograph the evidence at that time but I stopped myself from doing it, thinking of the humiliation and the stigma that would bring if people saw it. I even denied to myself and others that I even had the opportunity to collect that evidence. I regret that decision now because as time went on, I realized that not collecting that evidence at that time worked against me and in favor of my abusers. Now, I don’t shy away from collecting evidence at all, in fact, I like the peace of mind that it affords me and I intend to use it to gain my freedom.” **Brave, 26**
+
+> في احدى المرات ضربت ضرباً مبرحاً، وأذكر أنه أتيحت لي الفرصة لالتقاط صور للأدلة في ذلك الوقت ولكن توقفت عن فعل ذلك، وفكرت بالذل ووصمة العار التي من شأنها أن تلخق بي إذا رأى الناس ذلك.  منعت نفسي والآخرين رغم أنه سنحت لي الفرصة لجمع تلك الأدلة. ويؤسفني أني قد أتخذت القرار الخاطىء، أدركت أن عدم تحصيل تلك الأدلة في ذلك الوقت جاء ضد مصالحي و لمصلحة الجاني. الآن، أنا لا أخجل من جمع الأدلة في كل شيء، في الحقيقة، أنا أحب راحة البال التي يتيحها لي جمع الأدلة  وأنا عازمة على استخدامها للحصول على حريتي"
+**براف، 26**
+
+
+
+
