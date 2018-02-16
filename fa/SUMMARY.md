@@ -19,6 +19,3 @@
     * [ؤتان](5mins.md)
 * [ختم شد](whywebuilt.md)
 * [ختم شد](license.md)
-
-
-
