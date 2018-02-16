@@ -1,5 +1,5 @@
 # Summary
-* [اسلام علیکم](README.md)
+* [سلام](README.md)
 * [آنچه در این راهنما می‌یابید](whatsin.md)
 * [روش استفاده از این راهنما](howtouse.md)
 * [جمع‌آوری مدارک و شواهد](collecting.md)
