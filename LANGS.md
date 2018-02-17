@@ -3,8 +3,6 @@
 * [English](en/)
 * [Italiano](it/)
 * [Português](pt/)
-* [Farsi  /  فارسی](//fa)
-* [عربى / Arabic](ar/)
-
+* [Farsi  /  فارسی](fa/)
 
 
