@@ -1,4 +1,4 @@
-#IS THIS GUIDE FOR ME?
+#I S THIS GUIDE FOR ME?
 If you are a victim of any form of domestic violence or abuse, and have limited access to resources, you can use this guide as a tool to help build a case against the perpetrator without having to spend money for legal counsel.  You can find more information about what constitutes domestic violence and abuse below, as well as on the Chayn, Chayn India and Chayn Pakistan websites. Although this guide is meant primarily for those suffering from domestic violence, you may still find sections of this guide useful if you’ve endured or are enduring any injustice. If you’re worried about someone close to you, you can use this guide to help them.
 
 **In one line:** _this guide tells you how to build your own case if any injustice is being/has been done to you, without the help of a lawyer._
@@ -14,7 +14,7 @@ The general advice we provide in this guide is designed to help you build your c
 In some countries, you may be eligible for free legal advice provided under a Legal Aid scheme. However, there are number of resources at the back of this guide that can assist you in seeking legal help. If there is no information about your country, then you can turn to a local NGO (Non-Governmental Organisation/charity) - even if they do not have experience or expertise in domestic violence cases, they can still point you in the right direction.
 
 ### What can you use the guide for?
-#####This guide aims to help you exercise your right to:
+##### This guide aims to help you exercise your right to:
 + take legal action against the perpetrator
 + escape an abusive relationship
 + get a divorce
