@@ -10,8 +10,8 @@ Items in chronological order with the following details:
 
 Keep the timeline short.
 
-###EXAMPLE
-####2013
+### EXAMPLE
+#### 2013
 **20th May, 2013**
 *Lagos, Nigeria*
 > “I’m married to [X] in the presence of both of our families”
