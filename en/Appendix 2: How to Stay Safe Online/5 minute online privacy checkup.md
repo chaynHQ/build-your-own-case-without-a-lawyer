@@ -18,7 +18,7 @@
 7. Someone impersonates you, a relation of yours or stalks you
 
 ## PRIVACY CHECKLIST
-###&#9745; Google yourself with several combinations
+### &#9745; Google yourself with several combinations
 “First Last”, “Last First”, “Your Phone number”, “Your address”, “Your name + job name” or anything that can identify you. Check the Images tab too. Also search yourself on Spokeo.
 #### Result 
 Where do you find yourself?
