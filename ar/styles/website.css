@@ -1,0 +1,24 @@
+/* page background */ body { background-color: #F1F1F1;}
+
+/* heading fonts */
+@import url(http://fonts.googleapis.com/earlyaccess/notokufiarabic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+
+h1 { font-size: 52px; font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helvetica, sans-serif;}
+h2 { font-size: 42px; font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helvetica, sans-serif;}
+h3 { font-size: 32px; font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helvetica, sans-serif;}
+
+
+/* body font */p { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helvetica, sans-serif; text-align: right; }
+body { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helvetica, sans-serif; font-size: 18px; text-align: right;  }
+
+/* table of contents */.book-summary{ background-color: #FEBB2A;}
+
+/* search bar */
+#book-search-input input, #book-search-input input:focus, #book-search-input input:hover { width: 100%; background: 0 0; border: 3px solid black; box-shadow: none; outline: 0; line-height: 22px; padding: 7px 7px; color: inherit;
+}
+
+/* side menu */
+.book-summary {font-family:  color: black; font-size: 22px; font-weight: 900;}
+
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", sans-serif; font-weight: 800;}
