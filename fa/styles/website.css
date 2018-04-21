@@ -1,0 +1,33 @@
+/* page background */ body { background-color: #F1F1F1;}
+
+/* heading fonts */
+/*@import url('http://fontweb.ir/css/B Mitra={fontweb.ir}.css');*/
+@font-face {font-family: "B Mitra";
+  src: url("b9a78e6714347c12a10e709db3746719.eot"); /* IE9*/
+  src: url("b9a78e6714347c12a10e709db3746719.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("b9a78e6714347c12a10e709db3746719.woff2") format("woff2"), /* chrome、firefox */
+  url("b9a78e6714347c12a10e709db3746719.woff") format("woff"), /* chrome、firefox */
+  url("b9a78e6714347c12a10e709db3746719.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("b9a78e6714347c12a10e709db3746719.svg#B Mitra") format("svg"); /* iOS 4.1- */
+}
+
+h1 { font-size: 2.5em; font-family: "B Mitra", Courier, Sans-serif;}
+h2 { font-size: 42px; font-family: "B Mitra", Courier, Sans-serif;}
+h3 { font-size: 32px; font-family: "B Mitra", Courier, Sans-serif;}
+
+
+/* body font */p { font-family: "B Mitra", Courier, Sans-serif; text-align: right; font-size: 18px; }
+body { font-family: "B Mitra", Courier, Sans-serif; text-align: right; font-size: 18px; }
+ul {text-align: right;}
+ol {text-align: right;}
+
+/* table of contents */.book-summary{ background-color: #FEBB2A;}
+
+/* search bar */
+#book-search-input input, #book-search-input input:focus, #book-search-input input:hover { width: 100%; background: 0 0; border: 3px solid black; box-shadow: none; outline: 0; line-height: 22px; padding: 7px 7px; color: inherit;
+}
+
+/* side menu */
+.book-summary {font-family:  color: black; font-size: 18px; font-weight: 900;}
+
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-family: "B Mitra", Courier, Sans-serif; font-weight: 800;}
