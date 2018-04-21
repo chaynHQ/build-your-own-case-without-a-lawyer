@@ -4,7 +4,7 @@
 * [روش استفاده از این راهنما](howtouse.md)
 * [جمع آوری مدراک](collecting.md)
 * [مستندسازی از خشونت و بدرفتاری](presenting.md)
-    * [پوشه](folder.md)
+    * [پوشه](folder.md)
     * [صوتی](audio.md)
     * [عکس](pictures.md)
     * [ویدیو](video.md)
