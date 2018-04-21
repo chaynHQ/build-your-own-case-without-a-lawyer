@@ -28,6 +28,6 @@ ol {text-align: right;}
 }
 
 /* side menu */
-.book-summary {font-family:  color: black; font-size: 18px; font-weight: 900;}
+.book-summary {font-family:  color: black; font-size: 18px; font-weight: 400;}
 
-.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-family: "B Mitra", Courier, Sans-serif; font-weight: 800;}
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-family: "B Mitra", Courier, Sans-serif; font-weight: 400;}
