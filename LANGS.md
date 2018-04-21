@@ -4,5 +4,5 @@
 * [Italiano](it/)
 * [Português](pt/)
 * [Farsi  /  فارسی](fa/)
-* [Urdu /اردو] (ur/)
+* [Urdu /اردو](ur/)
 * [عربى / Arabic](ar/)
