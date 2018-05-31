@@ -19,5 +19,5 @@ body, * { font-family: Helvetica, sans-serif; font-size: 16px; font-weight: 200;
 /* side menu */
 .book-summary {color: black; font-size: 41px; font-weight: 800;}
 
-.book-summary ul.summary li.active > a { color: #5CA1BD; background: 0 0; text-decoration: italics;
+.book-summary ul.summary li.active > a { color: #25292E; background: 0 0; text-decoration: italics;
 }
