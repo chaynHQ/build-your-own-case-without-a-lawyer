@@ -1,8 +1,8 @@
-#COLLECTING EVIDENCE
-#جمع الأدلة
+# COLLECTING EVIDENCE
+# جمع الأدلة
 
-##TYPES OF EVIDENCE
-##أنواع الأدلة
+## TYPES OF EVIDENCE
+## أنواع الأدلة
 
 Evidence can take a number of forms. As there is no such thing as standard evidence, the evidence you submit will be specific to your case. Also, remember, that just because your abuser engages in psychological or verbal abuse does not mean that it is not abuse and there are ways to collect evidence for it. Keep reading the guide and you’ll find out how to do it!
 
@@ -25,7 +25,7 @@ For most court settings, there are 5 different types of evidence:
     + الإشاعة
     + الأدلة الأصلية
     + الشهادة
-###Documentary Evidence
+### Documentary Evidence
 This consists of documents and reports which have been produced for inspection by the court. These may be items of real evidence, original evidence or hearsay.
 
 هذا يتكون من الوثائق والتقارير التي تم تقديمها للتحقق من قبل المحكمة. قد تتكون هذه العناصر من الدليل الملموس ، الأدلة الأصلية أو الإشاعات.
@@ -45,8 +45,8 @@ These are the kinds of reports you can include:
     + رسالة من أي منظمة للخدمات الاجتماعية تدعم الناس في أية ضائقة
     + أي تقرير أو مستند أو دليل يمكن أن يوفر الأدلة الداعمة للإساءة التي واجهتها أو واجهت أي شخص آخر من المسيء.
 
-###Physical / Real Evidence
-###الفيزيائي / الدليل الملموس
+### Physical / Real Evidence
+### الفيزيائي / الدليل الملموس
 
 This is usually a material object of some kind, which is produced for inspection, either to prove that it exists, or so that the court can  get more information that will help it come to a conclusion based on evidence.
 
@@ -56,15 +56,15 @@ Physical evidence can consist of  things like ripped clothing, a letter, a weapo
 
 ويمكن أن تتكون الأدلة المادية من الأشياء مثل الملابس الممزقة، البريد الإلكتروني، السلاح والوثائق والمستندات التي دمرت جزئياً، أو أشياء ملموسة مادية أخرى. ويمكن أن تشمل أيضاً الصور والرسائل النصية ورسائل البريد الإلكتروني، والمحادثة وسائل التواصل الاجتماعية، وأشرطة الفيديو، والملفات الصوتية.
 
-###Original Evidence
-###الأدلة الأصلية
+### Original Evidence
+### الأدلة الأصلية
 
 Original evidence is a statement made outside court proceedings (for example, if  during an incidence of abuse your abuser says, “I’m going to kill you!”). The statement is made not to prove the truth of its contents, but rather for other purposes, for example to provide the relevant context to the situation, or otherwise strengthen your case - it corroborates your story. For example, in the case of your abuser saying “I’m going to kill you!”, the purpose of including this statement is not to prove whether or not he/she wanted to kill you, but rather to illustrate his or her violent character, and the abusive nature of the relationship.
 
 الدليل الأصلي هو البيان أو الأعتراف الذي أدلي به خارج الإجراءات القضائية (على سبيل المثال، إذا أثناء حدوث الاعتداء المسيء يقول: "سأقتلك!"). يستخدم ذلك كدليل على العنف، على سبيل المثال توفير سياق ذي صلة بالوضع، أو غير ذلك لتعزيز قضيتك – كما أنه يعزز الرواية الخاصة بك. على سبيل المثال، في حالة الشخص الذي يعتدي عليك قائلا "أنا سأقتلك!"، فأن الغرض من هذا الأعتراف ليس الاثبات ما اذا كان يريد قتلك، وإنما لتوضيح طبيعة العلاقة المسيئة.
 
-###Hearsay Evidence
-###أدلة سماعية
+### Hearsay Evidence
+### أدلة سماعية
 
 Testimony provided by a witness, or someone else, outside of the court, and not as part of their testimony is called “Hearsay evidence”. For example, a member of your family saying that they are worried about you because they have seen your abuser act violently, or a neighbour saying she/he has heard arguments and indications of abuse, can be included as hearsay evidence if these statements are made outside of the court. In many law jurisdictions, this evidence is inadmissible. However, when applying for asylum, these become supporting statements and this may be true for other cases as well. 
 
@@ -75,8 +75,8 @@ Hearsay evidence is less powerful than witness testimony given in the court, but
 
 الدليل السمعي هو أقل قوة من شهادات الشهود في المحكمة, ولكن يمكن أن يكون مفيداً إذا أمكنك اثباتها عبر استخدام اعتراف أو أي أدلة مسجلة أخرى. أنه لمن الأفضل جمع هذه الإدلة حتى لو كان هناك احتمال بأنها لن تأخذ بعين الاعتبار.
 
-###Testimony Evidence
-###الشهادات في اجراءات المحاكمة
+### Testimony Evidence
+### الشهادات في اجراءات المحاكمة
 
 Testimony evidence is evidence given by a witness, under oath, in the proceedings of a trial. Witnesses often also make statements before they get to court; this is a different form of evidence from testimony. Testimony evidence is only made in open court, in most countries.  However, when applying for asylum testimony evidence can be submitted in writing and asylum case workers almost never contact abusers to ‘hear their side of the story’ so you should not worry about that.
 
@@ -102,8 +102,8 @@ This section was the most difficult to get through. If you’ve made it this far
 
 .كان هذا الجزء الأكثر صعوبة. ما يأتي لاحقاً هو أكثر سهولة
 
-##DOCUMENTING ABUSE
-##توثيق الإساءة
+## DOCUMENTING ABUSE
+## توثيق الإساءة
 
 > “As a victim it is very important to overcome the thoughts of humiliation and shame that making the abuse public is going to bring. You need to put yourself forward. You need to know that not collecting the evidence is going to work against you and in favor of your abusers . You must try hard to give yourself the peace of mind that you deserve. Remember that, you are entitled to a life for yourself the way that you want and that your abusers have no right to take that away from you. Start collecting the evidence and keep it safe somewhere. This will help you get back the freedom that you lost. People call me crazy when I tell them what my parents do to me. By recording a video - that is the only way they believe me.” **Brave woman, 26**
 
