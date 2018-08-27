@@ -1,6 +1,6 @@
-##WORKING THROUGH THE GUIDE
+## WORKING THROUGH THE GUIDE
 
-##العمل من خلال الدليل
+## العمل من خلال الدليل
 
 In each section of this guide, you’ll first find:
 
@@ -23,8 +23,8 @@ In the sections below, we have outlined the basic guidelines for collecting and 
 
  أوجزنا في الأقسام التالية المبادئ التوجيهية الأساسية لجمع وتقديم الأدلة. بغض النظر عن طبيعة العنف المنزلي الممارس أو القوانين الوضعية  في بلدك، فأن جمع هذا النوع من الأدلة وتقديمها على نحو فعال سيدعم قضيتك في النهاية. إذا كنت غير قادر على جمع الأدلة، فأنه لا يزال بإمكانك ترك العلاقة ورفع دعوى ضد الشخص الذي يعتدي عليك. لقد وضعنا مجموعة من النصائح العامة للتخطيط للهروب المرفقة في الملحق. للحصول على دليل مفصل، يرجى تحميل دليل الهروب الآمن: http://chayn.co/planning-a-safe-escape
  
- ###Collecting evidence
- ###جمع الأدلة
+ ### Collecting evidence
+ ### جمع الأدلة
  
 Collecting evidence is crucial, and it is best to start as early as possible - while you are still in the abusive relationship. The following sections will provide you with practical examples of the kinds of evidence that can be useful and of how to collect it. You may also find that even when you were not actively collecting evidence, you still have important things that can help your case.
  
@@ -51,8 +51,8 @@ If you still feel like you don’t have any evidence to collect or present - the
 إذا كنت لا تزال تشعر بأنه لا دليل لديك في الوقت الحاضر، حاول مناقشة موقفك مع صديق تثق به، قد تفاجىء بتقديم صديقك  لفكرة جيدة أو نصيحة. يمكن بعد ذلك أن تكون قادراً على جمع الأدلة التي كنت قد تجاهلتها من قبل. قد تبدو المهمة شاقةً في البداية، ولكن مع الوقت سوف تكون أكثر سهولة. فكر في كل الأوقات السيئة، عدد المرات التي تعرضت للإساءة  أمام الآخرين؟ التهديدات ضمن الرسائل النصية أو على الانترنت؟
  قد يكون هناك العديد من الأدلة المتناثرة في كل مكان. كل ما تحتاجه هو العثور عليهم! استخدام هذا الدليل للتخطيط عن كيفية جمع هذه الأدلة. يمكنك أن تفعل هذا!
  
- ###Presenting evidence
- ###تقديم الدليل
+ ### Presenting evidence
+ ### تقديم الدليل
 
 The way you present evidence can make a huge difference for your case. The evidence is there to tell a story— your story. Keeping it organized will help you make your voice loud and clear.
 
