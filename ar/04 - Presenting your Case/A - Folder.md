@@ -1,15 +1,15 @@
-##FOLDER
-##الملف
+## FOLDER
+## الملف
 
-###WHAT CAN YOU USE IT FOR?
-###ما يمكنك فعله بالملف؟
+### WHAT CAN YOU USE IT FOR?
+### ما يمكنك فعله بالملف؟
 
 If the police or the prosecutor is investigating your case, you should give the folder to them, to support the investigation. You can also give the folder to any organizations that are helping you develop your case. Finally, the folder can be a useful part of your asylum application.
 
 إذا كانت الشرطة أو النيابة تحقق في قضيتك، يجب أن تقدّم ملف الأدلة لهم، وذلك من أجل دعم التحقيق. يمكنك أيضاً إعطاء الملف إلى أي من المنظمات التي تساعد على متابعة قضيتك. وأخيراً، يمكن للملف أن يكون ذا فائدة كبيرة لطلب اللجوء الخاص بك.
 
-###WHAT TO INCLUDE [summary]
-###ملخص ما يجب تقديمه؟
+### WHAT TO INCLUDE [summary]
+### ملخص ما يجب تقديمه؟
 
 * Cover Letter
 * Personal Statement - written by you
@@ -23,8 +23,8 @@ If the police or the prosecutor is investigating your case, you should give the 
 * دعم البيانات - مكتوبة من قبل أشخاص آخرين لدعم قضيتك
 * أي شيء آخر يمكن أن يكون ذات صلة  على سبيل المثال إدخالات دفتر اليومية
 
-###DETAILED
-###التفاصيل
+### DETAILED
+### التفاصيل
 
 Make sure you properly number and label different sections of your folder so it is easier to show others and for them to browse it.
 
