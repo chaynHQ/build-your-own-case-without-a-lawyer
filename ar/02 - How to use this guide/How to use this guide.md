@@ -1,7 +1,7 @@
-#HOW TO USE THIS GUIDE
-#كيف تستخدم هذا الدليل
-##IS THIS GUIDE FOR ME?
-##هل هذا الدليل من أجلي ؟ 
+# HOW TO USE THIS GUIDE
+# كيف تستخدم هذا الدليل 
+## IS THIS GUIDE FOR ME?
+## هل هذا الدليل من أجلي ؟ 
 If you are a victim of any form of domestic violence or abuse, and have limited access to resources, you can use this guide as a tool to help build a case against the perpetrator without having to spend money for legal counsel.  You can find more information about what constitutes domestic violence and abuse below, as well as on the [Chayn](http://chayn.co/), [Chayn India](http://chaynindia.com/) and [Chayn Pakistan](http://chaynpakistan.org/) websites. Although this guide is meant primarily for those suffering from domestic violence, you may still find sections of this guide useful if you’ve endured or are enduring any injustice. If you’re worried about someone close to you, you can use this guide to help them.
 
 إذا كنت ضحية لأي نوع من العنف المنزلي, مواردك محدودة , يمكنك استعمال هذا الدليل للمساعدة في بناء قضية ضد المعتدي عليك من دون الحاجة الى أنفاق الأموال على اية استشارة قضائية. يمكنك الحصول عل معلومات اكثر على ماهية  العنف المنزلي والاعتداء إدناه, ويمكنك أيضاً الحصول عل المعلومات من خلال المواقع الالكترونية "[Chayn](http://chayn.co/), [Chayn India](http://chaynindia.com/), [Chayn Pakistan](http://chaynpakistan.org/)".
@@ -32,7 +32,7 @@ In some countries, you may be eligible for free legal advice provided under a Le
 
 في بعض البلدان، قد تكون مؤهلاً للحصول على المشورة القانونية مجاناً، وذلك في إطار برنامج المساعدة القانونية. ومع ذلك، هناك عدد من الموارد في الجزء الخلفي من هذا الدليل الذي يمكن أن يساعدك في الحصول على المساعدة القانونية. إذا لم يكن هناك أية معلومات عن بلدك، يمكنك أن تنتقل إلى منظمة غير حكومية محلية (جمعية خيرية) - حتى لو لم يكن لديهم الخبرة في قضايا العنف الأسري، فإنها ما تزال قادرة على توجيهك في الاتجاه الصحيح.
 
-###What can you use the guide for?
+### What can you use the guide for?
 This guide aims to help you exercise your right to:
 * take legal action against the perpetrator
 * escape an abusive relationship
@@ -42,7 +42,7 @@ This guide aims to help you exercise your right to:
 * any other scenario where you need to prove the abuse you faced
 * for your own record.
 
-###كيف يمكنك استخدام هذا الدليل؟
+### كيف يمكنك استخدام هذا الدليل؟
 هذا الدليل يهدف الى مساعدتك في استخدام حقوقك في:
 * اتخاذ الاجراءات القانونية ضد الجاني
 * الهروب من علاقة مؤذي
@@ -77,8 +77,8 @@ You take real action towards making a future for yourself in the present by seek
 
 تستطيع اتخاذ إجراءات حقيقية نحو صنع مستقبل أفضل لنفسك من خلال طلب المساعدة من الناس والموارد مثل هذا الدليل. فقط عليك التمسك بحقوقك.
 
-##WHAT IS DOMESTIC VIOLENCE?
-##ما هو العنف المنزلي؟
+## WHAT IS DOMESTIC VIOLENCE?
+## ما هو العنف المنزلي؟
 
 Domestic violence is a type of mistreatment and includes physical, sexual, or psychological abuse. There are different types of domestic violence: it can occur in a lot of different ways, and it can happen to anyone, in any kind of relationship. 
 
