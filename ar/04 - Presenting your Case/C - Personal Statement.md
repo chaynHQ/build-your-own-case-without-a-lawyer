@@ -1,8 +1,8 @@
-##PERSONAL STATEMENT
-##البيان الشخصي
+## PERSONAL STATEMENT
+## البيان الشخصي
 
-###WHAT TO INCLUDE [summary]
-###ما يجب تقديمه؟
+### WHAT TO INCLUDE [summary]
+### ما يجب تقديمه؟
 
 * **Write in first person.** Use “I” rather than she/he.
 * **First paragraph:** Briefly describe your situation - are you in an abusive relationship, have you escaped it, what is your current position etc. Then, state clearly what you are applying for: e.g. divorce, domestic violence or harassment conviction, asylum, child custody, etc.
@@ -24,8 +24,8 @@ See detailed section for examples.
 
 انظر التفاصيل في القسم أدناه للحصول على أمثلة.
 
-###DETAILED
-###التفاصيل
+### DETAILED
+### التفاصيل
 
 Personal statement is the space in which you can explain your situation in more detail. Use it to explain your current situation with relation to your abuser (have you escaped, are you still in the abusive relationship, do you have any children with your abuser etc.), as well as what you are applying for and what you need specifically from the person you are writing to. The more concrete you can make your request, the more likely they are to be able to help you.
 
@@ -71,7 +71,7 @@ This is your space to present your story. You should use your own words and desc
 * تستخدم لغة رسمية
 * تخفف حدة الاعتداء " هو اعتاد استخدام لغة مهينة" ليش بالضروري يبين تأتيرات الاعتداء اللغوي عليك ولماذا هو اعتداء - من المهم أن تشدد على ذلك. اهانتك هو اعتداء وكذلك كيف ذلك يجعلك تشعر
 
-####2. Overly emotional description of abuse
+#### 2. Overly emotional description of abuse
 > “After some time, it all got so bad, I thought I couldn’t stand it anymore. I cried and cried all the time and felt completely powerless. He was beating and kicking me and I felt like dying, so scared all the time. He did things that made me feel worthless and humiliated. I felt very scared and couldn’t even contact the police.”
 > وصف شعوري جدا للاعتداء
 بعد فترة, كل شيء اصبح سيئا, أحسست بأنه لم بعد باستطاعتي التحمل أكثر. بكيت وبكيت طوال الوقت وشعرت بأنني بلا طاقة. هو كات يضرني  ويركلني وشعرت بأنني اموت, كنت خائفة طول الوقت. لقد فعل اشياء جعلتني أشعر بأنني بلا قيمة و  ذليلة. شعرت بأنني خائفة جدا ولا استطيع الاتصال بالشرطة حتى
@@ -80,37 +80,37 @@ This is your space to present your story. You should use your own words and desc
 
 > الطريقة التي تحدث بي فيها جعلتني أشعر بانني خائقة جدا وحزينة ومكتئبة. لقد قال لي أيضا اشياء جعلتني أشعر بالرعب على سلامتي
 
-#####These statements:
+##### These statements:
 * Are too vague - they do not provide specific examples or dates of the events
 * Focus on emotions rather than facts - it can distract the reader from your narrative of events
 * Are too repetitive and do not add enough new content
 
-#####هذه التصريحات:
+##### هذه التصريحات:
 * جدا غامضة - لا توفر أمثلة أو تواريخ للأحداث
 * تركز على المشاعر بدل من الوقائع - يمكن أن تشتت القارئ عن سردك الأحداث
 * هناك الكثير من التكرار و القليل من المحتوى
-####3. Balanced descriptions of abuse, including account of facts and emotions
+#### 3. Balanced descriptions of abuse, including account of facts and emotions
 > “In 2015, the situation got much worse. He beat, kicked and slapped me so much that I felt like I couldn’t take it any longer. On one occasion, he got particularly violent and I was afraid he was going to kill me. I reached for the phone to try to dial the police number, but he slapped the phone out of my hand and spat on my face, calling me a bitch”
 
-####وصف متوازن لأحداث الأعتداء, تضمن كلا من الوقائع والمشاعر
+#### وصف متوازن لأحداث الأعتداء, تضمن كلا من الوقائع والمشاعر
 >في عام 2015, الوضع ساء أكثر. هو ضرنبي, ركلني, وصفعني كثيرا لدرجة أنني شعرت بأنه لا يمكنني التحمل أكثر من ذلك. في احدى المرات, كان فعلاعنيفا وكنت خائفة بانه سوف يقوم بقتلي. استطعت الوصول الى الهاتف للاتصال بالشرطة, لكنه أخذ الهاتف من يدي و بصق على وجهي, ونعتني بالفاسقة 
 
 > “He repeatedly called me a bitch and a whore, forbidding me to see my friends and accusing me of cheating on him. This language made me feel very threatened and vulnerable. On one occasion, in June 2014, when I came back from a meeting with a friend, he threatened to kill me if I tried to contact someone from outside of our house again.”
 
 > لقد كرر نعتي بالفاسقة والعاهرة مرارا, منعتني من رؤية أصدقائي واتهمني بخيانته. هذه الألفاظ جعلتني أشعر بأنني مهددة ومحطمة. في احدى المرات, حزيران 2014, عدت الى المنزل بعد لقاء أحد اصدقائي, هددني بالقتل اذا حاولت الاتصال بأحد خارج منرلنا مرة أخرى 
 
-#####These statements:
+##### These statements:
 * Form a narrative - they show the events in a sequence, but also show their personal effect on you and how you felt about them
 * Clearly show how and when the abuse happened - whether it was physical or verbal, explaining the events and how you felt about them shows the nature of your relationship
 * Are specific about the dates and types of abuse
 
-#####هذه التصريحات:
+##### هذه التصريحات:
 * شكلت سرد - وأظهرت الأحداث بشكل متسلسل, ولكنها أيضا أظهرت تأثيراتها الشخصية عليك وكيف شعرت حيالهم
 * أظهرت بوضوح أين وكيف حصل الاعتداء - سواءا أكان جسدي أو لفظي, شرح الأحداث وكيف شعرت حيالهم وأظهر طبيعة العلاقة
 * دقيقة من ناخية التواريخ ونوع الاعتداء
 
-###TEMPLATE
+### TEMPLATE
 See the appendix.
 
-###القالب
+### القالب
 انظر المرفق
