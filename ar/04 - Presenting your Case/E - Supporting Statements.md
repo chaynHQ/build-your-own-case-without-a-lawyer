@@ -1,8 +1,8 @@
-#SUPPORTING STATEMENTS
-#التصريحات الداعمة
+# SUPPORTING STATEMENTS
+# التصريحات الداعمة
 
-##WHAT TO INCLUDE (summary)
-##ماذا تتضمن ( الملخص )
+## WHAT TO INCLUDE (summary)
+## ماذا تتضمن ( الملخص )
 
 **Cover Letter** for Supporting statements: Include a table or list of the names, date of births, ID number (if applicable), relation to you, and address.
 
@@ -56,8 +56,8 @@
 + Ensure that they sign the statement. This can be done either by printing the document, signing, and then scanning it, or by adding a digital signature.
 + تأكد بأن الشهود قد وقعوا على البيان. يمكنهم أن يقوموا بطباعة الملف, توقيعه ثم مسحه ضوئيا وارساله. أو توقيعه الكترونيا
 
-##DETAILED
-##تفاصيل
+## DETAILED
+## تفاصيل
 
 The supporting statements can serve different purposes, depending on what you are applying for. Even though it is important to let the person writing the statement express their own opinion freely, make sure to always let them know what you want to use the statement for, and make it clear why it is important. For example, if you are trying to get custody of your children, you can ask them to speak of your character, responsibility, and your relationship with your children. If you are applying for asylum, you can ask them to speak of your relationship, and confirm its abusive nature and, if they can, confirm the threat to your life upon returning to your country. Of course, the content of the statement will also depend on who is writing it. Your employer is more likely to vouch for your reliability and good character, whereas a member of the family, a neighbour, or a friend, can talk about your character, as well as your relationship with the abuser.
 البيانات الداعمة يمكن أن تستخدم لأغراض مختلفة, بناءا على ماتقوم بالتقديم عليه. على الرغم من أنه من الضروري لأي شخص يقوم بكتابة البيان أن يقوم بالتعبير عن رأيه بحرية, عليك دائما بأن تعلمهم لماذا تريد البيان, مع التوضيح لما هذا البيان مهم. على سبيل المثال, اذا كنت تريد البيان من أجل حضانة الأطفال, اطلب منهم ان يتكلموا عن شخصيتك, قدرتك على تحمل المسؤولية, وعلاقتك مع أطفالك. اذا كنت تقوم بطلب اللجوء, يمكنك أن تطلب منهم التكلم عن علاقتك, تأكيد طبيعة الاعتداء, واذا كان بالامكان, تأكيد التهديد على حياتك في حال عدت الى موطنك الأصلي. طبعا, محتوى البيان سوف يعتمد عن الشخص الذي يكتبه. صاحب عملك يمكنه الجزم عن حسن شخصيتك, بينما فرد من عائلتك, جار, صديق, يمكنهم التكلم عن شخصيتك وعلاقتك مع المعتدي.
@@ -93,7 +93,7 @@ Once you’ve collected all the statements, make sure you include a cover letter
 Check the template for details.
 انظر القالب من أجل التفاصيل 
 
-##TEMPLATE
-##القالب
+## TEMPLATE
+## القالب
 See appendix.
 انظر المحلق
