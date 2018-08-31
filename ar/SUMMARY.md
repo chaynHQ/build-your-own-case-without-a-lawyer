@@ -39,7 +39,7 @@
 > “ مذهل, انه يفتح البصيرة حقاً "** ن ي.**
 
 > “When my battle of abuse began, social media and search engines weren't a big thing then, so I went into everything completely blindsided. If "How to Build Your Own Domestic Violence Case", was available to me at that time, it would have made a world of a difference in not only empowering me with the knowledge and strength I needed to get through, but it would have done the same for millions of other women out there fighting the same battle. This is definitely a tool for survival”
-** Christine Taylor, Organiser of Domestic Violence support group **
+**Christine Taylor, Organiser of Domestic Violence support group**
 
 > “ عندما بدأت معركتي ضد الاعتداء و العنف، كانت وسائل التواصل الاجتماعي ومحركات البحث في بداياتها, لذلك كنت كالاعمى وقمت بكل شيء . لو كان الدليل " كيف تبني فضية العنف المنزلي الخاصة بك", متوفراً في ذلك الوقت, لكان سيصنع الفارق ليس فقط في تقوية معرفتي ومدّي بالقوة التي أحتاجها, بل سوف يفعل ذلك لملايين النساء الاخريات الذين يحاربون في المعركة نفسها. انه فعلاً أداة للبقاء"** كريستين تايلور, منطمة فريق دعم في العنف المنزلي**
 
