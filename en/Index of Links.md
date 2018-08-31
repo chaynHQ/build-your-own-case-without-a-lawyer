@@ -1,5 +1,5 @@
 # INDEX OF LINKS
-Chayn: (http://chayn.co
+Chayn: http://chayn.co
 
 Chayn Team: team@chayn.co
 
@@ -24,5 +24,5 @@ NNEDV Spyware and Safety PDF: http://nnedv.org/downloads/SafetyNet/NNEDV_Spyware
 How to password protect your files offline: https://support.office.com/en-us/article/Password-protect-documents-workbooks-and-presentations-ef163677-3195-40ba-885a-d50fa2bb6b68
 
 How to remove files from ‘recent files’ history: 
-(Mac: http://www.quora.com/What-is-the-best-way-to-delete-a-recently-opened-file-history-on-a-Mac ) 
-(Windows: http://windows.microsoft.com/en-us/windows7/clear-lists-on-the-start-menu-and-taskbar )
+Mac: http://www.quora.com/What-is-the-best-way-to-delete-a-recently-opened-file-history-on-a-Mac 
+Windows: http://windows.microsoft.com/en-us/windows7/clear-lists-on-the-start-menu-and-taskbar 
