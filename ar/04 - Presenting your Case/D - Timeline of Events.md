@@ -1,12 +1,12 @@
-#TIMELINE OF EVENTS
-#الجدول الزمني
+# TIMELINE OF EVENTS
+# الجدول الزمني
 
 The timeline of events must be chronological. You have already explained in the cover letter why you are building this case. The timeline of events is your chance to demonstrate the sequence of events that have happened to you and how it has affected you.
 
 الجدول الزمني للأحداث يجب أن يكون متسلسلا. سوف تكون شرحت مسبقا في الرسالة المرفقة لماذا بنيت هذه القضية. الجدول الزمني للأحداث هو فرصتك لتحدد  تسلسل الأحداث التي حصلت لك وكيف أثرت عليك
 
-##WHAT TO INCLUDE (summary)
-##ماذا تشمل ( ملخص)
+## WHAT TO INCLUDE (summary)
+## ماذا تشمل ( ملخص)
 
 + First instance of abuse.
 + When did it start?
@@ -35,8 +35,8 @@ For every timeline event, you must mention the following, even if it is approxim
 + من كان شاهدا على ذلك
 + أي أدلة تتعلق بتلك الحادثة
 
-##DETAILED
-##التفصيل
+## DETAILED
+## التفصيل
 
 There are two ways to go about this. You can either include a timeline of events in your personal statement or you can do one separately. We suggest making a  separate timeline.
 
@@ -50,8 +50,8 @@ Have a look at the example included in the Appendix.
 
 انظر الى المثال في الملحق
 
-##TEMPLATE/EXAMPLE
-##قالب / مثال
+## TEMPLATE/EXAMPLE
+## قالب / مثال
 
 See the appendix.
 
