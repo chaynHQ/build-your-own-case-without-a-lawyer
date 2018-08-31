@@ -1,9 +1,9 @@
-#EVIDENCE TYPE: AUDIO 
-#أنواع الأدلة: الصوتي
+# EVIDENCE TYPE: AUDIO 
+# أنواع الأدلة: الصوتي
 
-##WHAT TO INCLUDE (summary)
+## WHAT TO INCLUDE (summary)
 
-##ماذا تتضمن (ملخص)
+## ماذا تتضمن (ملخص)
 
 + Audio file
 + ملف صوتي
@@ -22,8 +22,8 @@
     + If the translation is done incorrectly by someone, highlight that with a highlighter and then write a separate note explaining what was interpreted or translated incorrectly. 
     + اذا تمت الترجمة بشكل خاطئ, عليك أن تسلط الضوء على الأخطاء باستعمال القلم المحدد ثم اكتب ملاحظة مستقلة مع الترجمة الصحيحة
 
-##DETAILED
-##تفاصيل
+## DETAILED
+## تفاصيل
 
 Although photographic, audio, and video evidence can be very useful for your case, it is important to bear in mind that it is often not self-explanatory. A recording taken out of the context can be misleading, or interpreted in different, sometimes contradictory, ways. That’s why it is always important to include a description of the recording: explain when and in what context it happened (e.g. was it at home, on the street, what happened directly before the recording etc.), how you recorded it, and who can be heard in the recording. Since recordings are not always clear, it is also important to provide transcripts - both in the original language, and a translation. It would be best if the translation could be done by a professional. However, it can also be done by you, or someone you know. Make  clear who made the translation and include their ID and contact information. If the translation is incorrect by someone, highlight that with a highlighter and then write a separate note explaining what was interpreted or translated incorrectly. It may also be useful to find online or offline sources with the correct use or translation of the word to bolster your case e.g. news article, dictionary or any book.
 على الرغم من أن البراهين الصورية, الصوتية, والأفلام يمكن أن تكون مفيدة جدا لقضيتك, الا انه من المهم جدا ان تتذكر بأنها غالبا مازالت بحاجة الى  شرح. جزء من التسجيل يمكن أن يكون يفسر بطرق مختلفة أو مضلل, وبعض الأحيان يمكن أن تكون متناقضة. لهذا انه من المهم ان ترافق وصف للتسجيل: اشرح متى حدث والأحداث المرافقة لهذا التسجيل ( كمثال: التسجيل كان في المنزل, في الطريقة, ماذا حدث مباشرة للتجسيل ..الخ ), كيف تم التسجيل, ومن يتحدث في هذا التسجيل. وبمان التسجيل غالبا لايكون واضحا, لذلك انه من المخم ان ترفقه بملف كتابي للتسجيل باللغة الأصلية للتجسيل والترجمة. من الأفضل للترجمة ان تتم عن طريق مختصين. في كل الحوال, يمكنك أن تقوم بالترجمة أو شخص اخر تعرفه. كن واضحا واذكر من قام بالترجمة ونسخة عن بطاقتهم الشخصية ومعلومات الاتصال بهم. اذا كانت الترجمة غير صحيحة, اشر اليها عن طريق قلم واكتب ملاحظة مستقلة مع الترجمة الصحيحة. احيانا, يمكن من المفيد أن تجد مصادر أو مصادر عن طريق الانترنيت لتعزيز الاستخدام الصحيح للكلمة في قضيتك: كمقال في الجريدة, قاموس أو كتاب
@@ -37,10 +37,10 @@ Once you record the evidence, make sure you store it safely. If your device crea
 عندما تسجل الأدلة, يجب عليك ان تحفظها بمكان امن. اذا كان جهازك يخلق ملقات الكترونية, احفظ عدة نسخ, تحت اسماء مختلفة لاتدل على المحتوى, واحفظ نسخة على USB في مكان امن. اذا الجهاز ينتج كاسيكات, اخفيها في مكان امن, أو اعطها لشخص تثق به.
 If you are unsure about the legal aspect of recording this, then don’t fear. Record it anyway. Later if you find out you can use it, even if just to persuade the police, an NGO, a loved one or lawyer to take up your case - then it will come in very handy.
 اذا كنت غير واثق من النتائج القانونية للتسجيل, لا تخف. قم بالتسجيل في كل الأحوال. لاحقا, عندما تعرف يمكنك استخدامها, حتى لو استعملتها فقط لتحفيز الشرطة, الجمعيات الغير ربحية, أحبتك, أو محامي من أجل أن يقبل قضيتك - يعدها كل شيء يمكن أن يكون سهلا جدا
-##EXAMPLES
+## EXAMPLES
 > “I started recording the conversations I had with my abusers after coming to the conclusion that I had no choice but to make their hypocrisy and their ill-treatment of me public. They seemed to thrive under the cover that my inaction in this regard was providing them. I decided to overcome the shame, the humiliation and embarrassment that I was experiencing at their hands because I needed to take control of my own life and my circumstances. But most of all, I wanted to have evidence to back up my side of the story because they had a habit of making me out to be a liar to the authorities. I needed to break that cycle.” **A brave woman, 26**
 
->" بدأت بتسجيل المحادثة مع المعتدي علي بعد أن وصلت الى نتيجة بأنني لا أملك أي خيار غير فضح نفاقه وسوء معاملته لي علنا. 
+> " بدأت بتسجيل المحادثة مع المعتدي علي بعد أن وصلت الى نتيجة بأنني لا أملك أي خيار غير فضح نفاقه وسوء معاملته لي علنا. 
 لقد قررت أن أتخطى خجلي,الذل, والحرج الذي اختبرته على ايديهم لأنني أحتاج لأن أتحكي بحياتي وظروفي. ولكن الأهم من كل ذلك, أردت أن يكون لدي أدلة لأدعم نفسي وقضيتي, أعرف تماما بأن لديه العادة ليظهرنني ككاذبة أمام السلطات, أردت أن أكسر الحلقة."
 **امرأة شجاعة,** 
 
