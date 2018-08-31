@@ -1,8 +1,8 @@
-#EVIDENCE TYPE: REPORTS FROM AGENCIES
-#نوع البينة : التقارير الواردة من وكالات
+# EVIDENCE TYPE: REPORTS FROM AGENCIES
+# نوع البينة : التقارير الواردة من وكالات
 
-##WHAT TO INCLUDE (summary)
-##ما الذي يجب تضمينه (موجز)
+## WHAT TO INCLUDE (summary)
+## ما الذي يجب تضمينه (موجز)
 
 **These are the kind of reports you can include:**
 + Any formal report from your hospital, nurse, doctor, therapist or masseuse to attest to your mental or physical state. They can also be witnesses to an incident e.g. your partner shouting at you in the hospital or accompanying you to a checkup.
@@ -20,8 +20,8 @@
 رسالة من أي منظمة تدعم الناس في ضائقة، أي رساله من الخدمات الاجتماعية
 أي تقرير رسمي أو غيرها من الأدلة التي يمكن أن توفر أدلة داعمة للإساءة التي واجهتها أو أي شاهد آخر.
 
-##DETAILED
-##التفاصيل
+## DETAILED
+## التفاصيل
 
 Any report from an impartial organisation that confirms any part of your story will be beneficial. These reports give the court/police and demonstrate to anyone else that (1) you’re telling the truth (2) you have reached out for help. 
 
