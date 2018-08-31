@@ -1,8 +1,8 @@
-#EVIDENCE TYPE: PICTURES 
-#نوع الدليل: صور
+# EVIDENCE TYPE: PICTURES 
+# نوع الدليل: صور
 
-##WHAT TO INCLUDE (summary)
-##ماذا تتضمن (ملخص)
+## WHAT TO INCLUDE (summary)
+## ماذا تتضمن (ملخص)
 
 + Picture (digital or physical or both)
 + صورة ( الكترونية أو مطبوعة أو كلاهما)
@@ -15,8 +15,8 @@
 + A note explaining the context of the picture
 + ملاحظة تشرح سياق الصورة
 
-##DETAILED
-##التفاصيل
+## DETAILED
+## التفاصيل
 
 Pictures are an important asset for your case. However, just like the audio recordings, they must be put in context. Remember to include the date and context of the picture. When documenting injuries, it is best to take several pictures: a “close-up” of the injury, as well as the photo of the entire body/body part with your face in it so it can be proven the picture is yours, allowing the viewer to place the injury in context and see its extent. Even if the injuries seem minor to you, you should document them - they can become an important piece of evidence. Try not to be too concerned about the abuser claiming the injuries are the results of your own actions e.g. self harm or natural accidents - doctors are often capable of determining how injuries have been caused, even from just looking at photos. 
 الصور هي أصول مهمة لقضيتك. عل كل, كما التسجيلات الصوتية, يجب أن تضعهم ضمن سياق. تذكر أن ترافق التاريخ وسياق الصورة. عندما توثق جروح, الأفضل بأن تلتقط أكثر من صورة: قريبة للجرح, أيضا صورة لكل الجسم أو العضو المجروح مع صورة وجهك لكي تثبت بأن الصورة هي لك, وهذا سوف يسمح للشخص الذي يرى الصورة بان يتمكن من أن يعرف موضع الاصابة ومداها. حتى لو كانت الجروح تبدو طفيفة بالنسبة اليك عليك أن تقوم بتوثيقها - يمكن لهذه الاصابات أن تصبح دليلا مهما. حاول أن تقلق اذا ادعى المعتدي بأن هذه الأصابات هي من فعلك كمحاولتك اذيتك نفسك أو هي اصابات طبيعية - الأطباءغالبا قادرون على معرفة طبيعة الاصابات ختى عن طريق الصور
@@ -26,8 +26,8 @@ As with the audio evidence, be careful when taking and storing the picture - mak
 كما في الأدلة الصوتية, كن حذرا عندما تقوم بالتقاط الصورة وحفظها - تأكدمن أن المعتدي لن يقوم بايجادهم. يجب عليك أن تقوم بحفظ نسختين الكترونية و مطبوعة وخلأها في مكان امن. يمكنك أيضا أن ترسلها عبر البريد الالكتروني لشخص تثق به
 If you receive any text or any form of correspondence from your abuser or a friend/family of the abuser - keep it. Don’t delete it.
 اذا استلمت أي رسالة أو أي شيء من المعتدي, او صديق المعتدي أو عائلته - قم بحفظها. لا تقم يحذفها
-###Types of pictures you can include:
-###أنواع الصور
+### Types of pictures you can include:
+### أنواع الصور
 
 + Screenshots of:
     + Facebook statuses
@@ -56,7 +56,7 @@ If you receive any text or any form of correspondence from your abuser or a frie
 Just like with audio recordings, you should gather this evidence even if you are unsure if it will be helpful. You never know when you might need it to help you convince someone to support you!
 كما هو الحال مع التسجيلات الصوتية، يجب عليك جمع هذه الأدلة حتى لو كنت غير متأكد ما اذا كان سوف يكون من المفيد استعمالها. أنت لا تعرف متى قد تحتاج هذه الأدلة لمساعدتك بإقناع شخص ما لدعمك!
 
-##EXAMPLE
+## EXAMPLE
 ![](/assets/image02.jpg)
 > “One time I got beat up pretty badly, I remember that I had the opportunity to photograph the evidence at that time but I stopped myself from doing it, thinking of the humiliation and the stigma that would bring if people saw it. I even denied to myself and others that I even had the opportunity to collect that evidence. I regret that decision now because as time went on, I realized that not collecting that evidence at that time worked against me and in favor of my abusers. Now, I don’t shy away from collecting evidence at all, in fact, I like the peace of mind that it affords me and I intend to use it to gain my freedom.” **Brave, 26**
 
