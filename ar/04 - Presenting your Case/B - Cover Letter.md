@@ -1,8 +1,8 @@
-##COVER LETTER
-##استدعاء الدعوى
+## COVER LETTER
+## استدعاء الدعوى
 
-###WHAT TO INCLUDE [summary]
-###ما يجب تقديمه؟
+### WHAT TO INCLUDE [summary]
+### ما يجب تقديمه؟
 
 * Who you are
 * Why are you submitting this case / what is it for?
@@ -10,14 +10,14 @@
 * Why you collected the evidence
 * An appendix of the different kind of documents included in the folder
 
-*من أنت؟
+* من أنت؟
 * لماذا تقديم هذه الدعوى / ما هي؟
 *  ما هي الأدلة؟
 *  لماذا جمعت الأدلة؟
 *  ملحق عن مختلف أنواع الوثائق المدرجة في الملف.
 
-###DETAILED
-###التفاصيل
+### DETAILED
+### التفاصيل
 
 The cover letter is a way of introducing your case, and the evidence, to the reader. Please be as concise and specific as possible. Focus on highlighting the most important information: who you are, why you are writing to them, what evidence you collected and what does it show.
 
@@ -31,9 +31,9 @@ At this point, do not get into details of describing or explaining your evidence
 
 عند هذه النقطة، لا تدخل في التفاصيل لوصف أو شرح شهادتك. بدلاً من ذلك، قل شيئا مثل: "إن الأدلة التي جمعتها، في شكل وثائق، الدليل الصوتي ، وكذلك أقوال الشهود، تظهر بوضوح طبيعة العلاقة المسيئة ، ويدعم حاجتي إلى الخروج منها حفاظاً على سلامتي". التفاصيل يمكن أن تأتي في قسم البيان الشخصي.
 
-###TEMPLATE/EXAMPLE
+### TEMPLATE/EXAMPLE
 
-###أمثلة
+### أمثلة
 
 See the Appendix.
 
