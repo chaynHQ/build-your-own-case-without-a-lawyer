@@ -51,7 +51,7 @@ This is your space to present your story. You should use your own words and desc
 
 هذه هي المساحة الخاصة لتقديم قصتك وقضيتك. يجب عليك استخدام الكلمات بمرونة ووصف الأحداث كما كأنك من ذوي الخبرة ، بدلا من اللغة العامية. حاول التركيز على الحقائق، بدلاً من العواطف. يمكن أن تذكر شعورك بالإساءة، ولكن تأكد من الحفاظ على تركيزك على ما حدث. وفيما يلي أمثلة من الجمل التي هي (1) غير شخصية جداً. (2) عاطفية جداً. (3) ومتوازنة بشكل جيد.
 
-####1. Overly impersonal description of abuse
+#### 1. Overly impersonal description of abuse
 > “In 2015, the situation deteriorated. He used physical and other forms of violence against me. When I attempted to notify the authorities, the abuser would use force to prevent me from doing so.”
 
 >وصف موضوعي جدا للاعتداء
@@ -61,7 +61,7 @@ This is your space to present your story. You should use your own words and desc
 
 > لقد استعمل معي مرارا لغة غير لائقة ليشر الي او لابني. واستعمل معي التهديد ليمنعني من اخطار اناس اخرين حول الوضع
 
-#####These statements:
+##### These statements:
 * Sound unnatural and forced, do not provide a flowing narrative
 * Use overly formal language
 * Downplay the abuse: saying “He used insulting language” does not necessarily show the effect the verbal abuse had on you and why it was abuse - it is important to stress that. Insulting you IS abuse and how it made you feel IS important!
