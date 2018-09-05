@@ -2,7 +2,3 @@
 
 * [English](en/)
 * [Italiano](it/)
-* [Português](pt/)
-* [Farsi  /  فارسی](fa/)
-* [Urdu /اردو](ur/)
-* [عربى / Arabic](ar/)
